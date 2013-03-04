@@ -1,0 +1,10 @@
+12:19 PM 3/4/2013
+
+this collection of files is the equivalent of /templates on the ftp server for essex-industries.mybigcommerce.com
+editing these files saves them on my D:\ drive and also in Box
+github for webstorm should take care of versioning them etc.
+
+1:36 PM 3/4/2013
+
+second update on this file to see what happens etc.
+
