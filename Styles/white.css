@@ -92,7 +92,7 @@ a:hover {
 }
 h1,h2,h3,h4,h5,h6 {
     font-family: SortsMillGoudyRegular;
-    color: #eee8aa; /* #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
+    color: #eee8aa; /* #eee8aa; 3/6/12 *//* #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
 }
 h2 {
 	/*color: #0066cc;*/
@@ -260,7 +260,7 @@ h3 {
 }
 .ProductList strong, .ProductList strong a {
 	/*color: #606060;*/
-    color: #f0f8ff; /* aliceblue 3/6/12 */ /* #a19d72; old color from ZC site 3/6/13 */ /* #8a8a8a;, maybe use #0088cc, was #999999, was #0088CC; */
+    color: #fafad2; /* lightgoldenrodyellow 3/6/12 */ /* #a19d72; old color from ZC site 3/6/13 */ /* #8a8a8a;, maybe use #0088cc, was #999999, was #0088CC; */
 }
 .ProductList strong a:hover {
 	color: #0066cc;
