@@ -67,7 +67,7 @@
 body {
 	/* background: #f4f4f4 url(../../ArtFraming/images/white/BodyBg.gif) 50% 0 no-repeat; 3/5/13 commented out */
 	/*color: #606060;*/
-    font-family: BitstreamVeraSansRoman, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: BitstreamVeraSansRoman, Arial, sans-serif;
     background-color: #003300; /* very dark forest green is #003300 tested with maroon etc. added 1/17/12 */
     /* color: #fafad2; lightgoldenrodyellow 3/6/12 #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
     color: #eee8aa; /* palegoldenrod 3/6/12 */
