@@ -44,55 +44,32 @@
     font-weight: normal;
     font-style: normal;
 }
-@font-face {
-    font-family: 'SortsMillGoudyRegular';
-    src: url('webfonts/webfonts/GoudyStM-webfont.eot');
-    src: url('webfonts/GoudyStM-webfont.eot?#iefix') format('embedded-opentype'),
-    url('webfonts/GoudyStM-webfont.woff') format('woff'),
-    url('webfonts/GoudyStM-webfont.ttf') format('truetype'),
-    url('webfonts/GoudyStM-webfont.svg#SortsMillGoudyRegular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'SortsMillGoudyItalic';
-    src: url('webfonts/GoudyStM-Italic-webfont.eot');
-    src: url('webfonts/GoudyStM-Italic-webfont.eot?#iefix') format('embedded-opentype'),
-    url('webfonts/GoudyStM-Italic-webfont.woff') format('woff'),
-    url('webfonts/GoudyStM-Italic-webfont.ttf') format('truetype'),
-    url('webfonts/GoudyStM-Italic-webfont.svg#SortsMillGoudyItalic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'GoudyBookletter1911Regular';
-    src: url('webfonts/goudy_bookletter_1911-webfont.eot');
-    src: url('webfonts/goudy_bookletter_1911-webfont.eot?#iefix') format('embedded-opentype'),
-    url('webfonts/goudy_bookletter_1911-webfont.woff') format('woff'),
-    url('webfonts/goudy_bookletter_1911-webfont.ttf') format('truetype'),
-    url('webfonts/goudy_bookletter_1911-webfont.svg#GoudyBookletter1911Regular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
 body {
 	/* background: #f4f4f4 url(../../ArtFraming/images/white/BodyBg.gif) 50% 0 no-repeat; 3/5/13 commented out */
 	/*color: #606060;*/
     font-family: BitstreamVeraSansRoman, "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: #003300; /* very dark forest green is #003300 tested with maroon etc. added 1/17/12 */
-    color: #eee8aa; /* #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
+    /* color: #fafad2; lightgoldenrodyellow 3/6/12 #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
+    color: #eee8aa; /* palegoldenrod 3/6/12 */
+    /* color: #f8f8ff; /* ghostwhite 3/6/12 */
 }
 a {
-    color: #a19d72; /* #8a8a8a;, maybe use #0088cc, was #999999, was #0088CC; */
-    /*color: #606060;*/
+    color: #fafad2; /* lightgoldenrodyellow 3/6/12 */
+    /* color: #eee8aa; palegoldenrod 3/6/12 */
+    /* color: #a19d72; #8a8a8a;, maybe use #0088cc, was #999999, was #0088CC; */
+    /* color: #606060; */
 	font-weight: normal;
-	text-decoration: underline;
+	/* text-decoration: underline; */
 }
 a:hover {
 	color: #0066cc;
 }
 h1,h2,h3,h4,h5,h6 {
     font-family: SortsMillGoudyRegular;
-    color: #eee8aa; /* #eee8aa; 3/6/12 *//* #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
+    /* #eee8aa; 3/6/12 *//* #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
+    /* color: #fafad2; lightgoldenrodyellow 3/6/12 */
+    color: #eee8aa; /* palegoldenrod 3/6/12 */
+
 }
 h2 {
 	/*color: #0066cc;*/
@@ -158,7 +135,10 @@ h3 {
 }
 #Wrapper {
     background-color: #003300; /* very dark forest green is #003300 tested with maroon etc. added 1/17/12 */
-    color: #eee8aa; /* #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
+    /* #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
+    color: #eee8aa; /* palegoldenrod 3/6/12 */
+    /* color: #f8f8ff; /* ghostwhite 3/6/12 */
+
 }
 
 
@@ -218,6 +198,7 @@ h3 {
 .Content h2 {
 }
 .Content a {
+    color: #fafad2; /* lightgoldenrodyellow 3/6/12 */
 }
 .Content.Wide {
 }
@@ -259,11 +240,15 @@ h3 {
 .Content .ProductList .ProductDetails {
 }
 .ProductList strong, .ProductList strong a {
-	/*color: #606060;*/
-    color: #fafad2; /* lightgoldenrodyellow 3/6/12 */ /* #a19d72; old color from ZC site 3/6/13 */ /* #8a8a8a;, maybe use #0088cc, was #999999, was #0088CC; */
+	/* color: #606060; */
+    /* color: #fafad2; lightgoldenrodyellow 3/6/12 */
+    /* #a19d72; old color from ZC site 3/6/13 */ /* #8a8a8a;, maybe use #0088cc, was #999999, was #0088CC; */
+    /* color: #eee8aa; palegoldenrod 3/6/12 */
+    color: #fafad2; /* lightgoldenrodyellow 3/6/12 */
 }
 .ProductList strong a:hover {
-	color: #0066cc;
+	/*color: #0066cc;*/
+    text-decoration: underline;
 }
 .ProductPrice, .ProductList em {
 	color: #ff3941;
@@ -578,3 +563,10 @@ table.General tbody tr td {
 }
 
 /* end social sharing styles */
+
+/* additional custom styles March 2013 */
+
+.BlockContent a {
+    color: #fafad2; /* lightgoldenrodyellow 3/6/12 */
+    text-decoration: none;
+}
