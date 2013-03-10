@@ -104,7 +104,6 @@ h3 {
 
 
 #Container {
-    background-color: #003300;
 }
 
 /* 3/10/13 want this floated left, not right */
@@ -151,7 +150,7 @@ h3 {
 	background: #fff;
 }
 #Header {
-	border-top: 1px solid #dadada;
+    background-color: #003300;
 }
 #Wrapper {
     background-color: #003300; /* very dark forest green is #003300 tested with maroon etc. added 1/17/12 */
