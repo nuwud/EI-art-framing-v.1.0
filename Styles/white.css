@@ -147,10 +147,12 @@ h3 {
 }
 
 #Outer {
-	background: #fff;
+	/*background: #fff; 3/10/13 */
+    background-color: #003300;
 }
 #Header {
     background-color: #003300;
+    color: red;
 }
 #Wrapper {
     background-color: #003300; /* very dark forest green is #003300 tested with maroon etc. added 1/17/12 */
