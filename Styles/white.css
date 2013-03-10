@@ -82,7 +82,7 @@ a {
 	/* text-decoration: underline; */
 }
 a:hover {
-	color: #0066cc;
+	color: #fafad2;  /* 3/10/13 was #0066cc; */
 }
 h1,h2,h3,h4,h5,h6 {
     font-family: SortsMillGoudyRegular, Cambria, serif;
