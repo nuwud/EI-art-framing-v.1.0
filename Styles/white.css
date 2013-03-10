@@ -108,14 +108,13 @@ h3 {
 
 /* 3/10/13 want this floated left, not right */
 #TopMenu {
-	background: #fff;
     width: auto;
     height: auto;
 }
 #Topmenu li{
 }
 #TopMenu li a {
-	color: #000;
+	color: #red;
 }
 #TopMenu li div {
 	color: #000;
