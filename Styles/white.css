@@ -106,9 +106,10 @@ h3 {
 #Container {
 }
 
-
+/* 3/10/13 want this floated left, not right */
 #TopMenu {
 	background: #fff;
+    float: left;
 }
 #Topmenu li{
 }
