@@ -152,6 +152,8 @@ h3 {
 }
 #Header {
     background-color: #003300;
+}
+#Header a {
     color: red;
 }
 #Wrapper {
