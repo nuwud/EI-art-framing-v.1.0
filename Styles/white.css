@@ -109,7 +109,6 @@ h3 {
 /* 3/10/13 want this floated left, not right */
 #TopMenu {
 	background: #fff;
-    float: left;
     width: auto;
     height: auto;
 }
