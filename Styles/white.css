@@ -153,9 +153,6 @@ h3 {
 #Header {
     background-color: #003300;
 }
-#Header a {
-    color: red;
-}
 #Wrapper {
     background-color: #003300; /* very dark forest green is #003300 tested with maroon etc. added 1/17/12 */
     /* #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
@@ -163,16 +160,14 @@ h3 {
     /* color: #f8f8ff; /* ghostwhite 3/6/12 */
 
 }
-
-#LogoContainer {
+#LogoContainer { /* 3/10/13 custom css */
     background-color: #003300;
 }
-
 #Logo h1 {
-	color: #000;
+    color: #eee8aa; /* 3/10/13 was #000 */
 }
 #Logo h1 a {
-	color: #000;
+    color: #eee8aa; /* 3/10/13 was #000 */
 }
 
 
