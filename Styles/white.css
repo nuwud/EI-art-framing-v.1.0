@@ -114,10 +114,8 @@ h3 {
 #Topmenu li{
 }
 #TopMenu li a {
-	color: #red;
 }
 #TopMenu li div {
-	color: #000;
 }
 #TopMenu li a:hover {
 	text-decoration: underline;
