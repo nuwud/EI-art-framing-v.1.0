@@ -106,7 +106,7 @@ h3 {
 #Container {
 }
 
-/* 3/10/13 want this floated left, not right */
+/* 3/10/13 want this floated left, not right, must fix color text in FF */
 #TopMenu {
     width: auto;
     height: auto;
@@ -170,6 +170,7 @@ h3 {
 
 
 #SearchForm {
+    margin-top:-3px;
 }
 #SearchForm label {
 }
