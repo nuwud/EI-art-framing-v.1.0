@@ -1,7 +1,7 @@
 	%%GLOBAL_OptimizerLinkScript%%	
 		
 		<div id="TopMenu">
-            <div style="float:left; padding-top:4px;">
+            <div style="float:left; padding-top:5px;">
 			<ul style="display:%%GLOBAL_HidePurchasingOptions%%">
 				<li style="%%GLOBAL_LiveChatCodeEnabled%%" class="HeaderLiveChat">
 					%%GLOBAL_LiveChatCode%%
@@ -11,12 +11,9 @@
 				<li style="display:%%GLOBAL_HideWishlist%%"><a href="%%GLOBAL_ShopPath%%/wishlist.php">%%LNG_YourWishList%%</a></li>
 				%%SNIPPET_TopMenuGiftCertificates%%
 				<li style="display:%%GLOBAL_HideCartOptions%%" class="CartLink"><a href="%%GLOBAL_ShopPathNormal%%/cart.php">%%LNG_ViewCart%% <span>%%GLOBAL_CartItems%%</span></a></li>
-				<li style="display:%%GLOBAL_HideAccountOptions%%">
-					<div>
-						%%GLOBAL_LoginOrLogoutText%%
-					</div>
-				</li>
-			</ul>
+                <li style="display:%%GLOBAL_HideCartOptions%%" class="CartLink"><a href="%%GLOBAL_ShopPathNormal%%/login.php">Sign In</a></li>
+                <li style="display:%%GLOBAL_HideCartOptions%%" class="CartLink"><a href="%%GLOBAL_ShopPathNormal%%/login.php?action=create_account">Create Account</a></li>
+ 			</ul>
             </div>
             <div style="float:right;">
             %%Panel.HeaderSearch%%
