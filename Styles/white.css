@@ -92,6 +92,9 @@ h1,h2,h3,h4,h5,h6 {
     color: #eee8aa; /* palegoldenrod 3/6/12 */
 
 }
+#Logo h1 {
+    font-weight: bold;
+}
 h2 {
 	/*color: #0066cc;*/
 	/*font-family: "Times New Roman", Times, serif;*/
