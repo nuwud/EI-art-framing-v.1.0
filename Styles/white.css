@@ -92,9 +92,7 @@ h1,h2,h3,h4,h5,h6 {
     color: #eee8aa; /* palegoldenrod 3/6/12 */
 
 }
-#Logo h1 {
-    font-weight: bold;
-}
+
 h2 {
 	/*color: #0066cc;*/
 	/*font-family: "Times New Roman", Times, serif;*/
@@ -168,6 +166,24 @@ h3 {
 #LogoContainer { /* 3/10/13 custom css */
     background-color: #003300;
 }
+#Logo {
+    float: left;
+    width: 980px;
+    height: 85px;
+    margin-top: 25px;
+    display: inline;
+}
+#Logo h1 {
+    margin: 4px 0 0 0;
+    font-size: 2em;
+    font-weight: bold;
+}
+#Logo #LogoImage {
+}
+#Logo h1 a {
+    text-decoration: none;
+}
+
 #Logo h1 {
     color: #eee8aa; /* 3/10/13 was #000 */
 }
