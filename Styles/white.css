@@ -72,6 +72,7 @@ body {
     /* color: #fafad2; lightgoldenrodyellow 3/6/12 #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
     color: #eee8aa; /* palegoldenrod 3/6/12 */
     /* color: #f8f8ff; /* ghostwhite 3/6/12 */
+    font-size:.9em; /* 3/11/13 larger more readable */
 }
 a {
     color: #fafad2; /* lightgoldenrodyellow 3/6/12 */
@@ -114,7 +115,7 @@ h3 {
 #Topmenu li{
 }
 #TopMenu li a {
-    color: #fafad2;
+    color: #fafad2; /* 3/10/13 TO DO change all links to gray like on search menu */
 }
 #TopMenu li div {
 }
