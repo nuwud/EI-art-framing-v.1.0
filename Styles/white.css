@@ -81,6 +81,7 @@ a {
     /* color: #606060; */
 	font-weight: normal;
 	/* text-decoration: underline; */
+    color: #cfcfcf; /* 3/11/13 same as searchform a */
 }
 a:hover {
 	color: #fafad2;  /* 3/10/13 was #0066cc; */
@@ -91,10 +92,6 @@ h1,h2,h3,h4,h5,h6 {
     /* color: #fafad2; lightgoldenrodyellow 3/6/12 */
     color: #eee8aa; /* palegoldenrod 3/6/12 */
 
-}
-h1 {
-    font-size: 2em;
-    font-weight: bold;
 }
 h2 {
 	/*color: #0066cc;*/
@@ -172,23 +169,20 @@ h3 {
 #Logo {
     float: left;
     width: 980px;
-    height: 85px;
+    height: auto; /* 3/11/13 override, not specific height */
     margin-top: 25px;
     display: inline;
 }
 #Logo h1 {
-    margin: 4px 0 0 0;
+    /*margin: 4px 0 0 0;*/
+    font-size: 2.6em;
+    font-weight: bolder;
+    color: #eee8aa; /* 3/10/13 was #000 */
 }
 #Logo #LogoImage {
 }
 #Logo h1 a {
     text-decoration: none;
-}
-
-#Logo h1 {
-    color: #eee8aa; /* 3/10/13 was #000 */
-}
-#Logo h1 a {
     color: #eee8aa; /* 3/10/13 was #000 */
 }
 
