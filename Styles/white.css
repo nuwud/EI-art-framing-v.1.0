@@ -81,7 +81,7 @@ a {
     /* color: #606060; */
 	font-weight: normal;
 	/* text-decoration: underline; */
-    color: #cfcfcf; /* 3/11/13 same as searchform a */
+    color: #cfcfcf; /* 3/11/13 same as searchform a, alternative would be #c0c0c0 for silver, also try going back to the EI brown color */
 }
 a:hover {
 	/*color: #fafad2;  *//* 3/10/13 was #0066cc; */
