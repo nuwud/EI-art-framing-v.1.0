@@ -3,7 +3,6 @@
 3/5/13 white.css is custom css for white art framing, all custominzng done in this css since it's loaded last
 3/5/13 initial changes: no background gif, declare webfonts before body, all body and Hx text uses webfonts
 */
-
 @font-face {
     font-family: 'BitstreamVeraSansRoman';
     src: url('webfonts/Vera-webfont.eot');
@@ -127,6 +126,11 @@ h3 {
 #TopMenu li a:hover {
 	text-decoration: underline;
 }
+#TopMenu i {
+    font-size: 20px;
+    margin-top: -4px; /* 3/11/13 properly vertically positions the home icon, IE remains to be seen */
+}
+
 
 
 #Menu {
@@ -159,6 +163,7 @@ h3 {
 }
 #Header {
     background-color: #003300;
+    height: auto;
 }
 #Wrapper {
     background-color: #003300; /* very dark forest green is #003300 tested with maroon etc. added 1/17/12 */
@@ -171,7 +176,6 @@ h3 {
     background-color: #003300;
 }
 #Logo {
-    float: left;
     width: 980px;
     height: auto; /* 3/11/13 override, not specific height */
     margin-top: 25px;
@@ -180,7 +184,6 @@ h3 {
 #Logo h1 {
     /*margin: 4px 0 0 0;*/
     font-size: 2.6em;
-    font-weight: bolder;
     color: #eee8aa; /* 3/10/13 was #000 */
 }
 #Logo #LogoImage {
@@ -188,6 +191,7 @@ h3 {
 #Logo h1 a {
     text-decoration: none;
     color: #eee8aa; /* 3/10/13 was #000 */
+    font-weight: bold;
 }
 
 
