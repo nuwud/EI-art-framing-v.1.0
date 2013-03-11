@@ -75,7 +75,7 @@ body {
     font-size:.9em; /* 3/11/13 larger more readable */
 }
 a {
-    color: #fafad2; /* lightgoldenrodyellow 3/6/12 */
+    /*color: #fafad2; *//* lightgoldenrodyellow 3/6/12 */
     /* color: #eee8aa; palegoldenrod 3/6/12 */
     /* color: #a19d72; #8a8a8a;, maybe use #0088cc, was #999999, was #0088CC; */
     /* color: #606060; */
@@ -84,7 +84,9 @@ a {
     color: #cfcfcf; /* 3/11/13 same as searchform a */
 }
 a:hover {
-	color: #fafad2;  /* 3/10/13 was #0066cc; */
+	/*color: #fafad2;  *//* 3/10/13 was #0066cc; */
+    color: #cfcfcf; /* 3/11/13 same as searchform a */
+    text-decoration: underline;
 }
 h1,h2,h3,h4,h5,h6 {
     font-family: SortsMillGoudyRegular, Cambria, serif;
@@ -116,7 +118,9 @@ h3 {
 #Topmenu li{
 }
 #TopMenu li a {
-    color: #fafad2; /* 3/10/13 TO DO change all links to gray like on search menu */
+    /*color: #fafad2; *//* 3/10/13 TO DO change all links to gray like on search menu */
+    color: #cfcfcf; /* 3/11/13 same as searchform a */
+
 }
 #TopMenu li div {
 }
@@ -235,7 +239,9 @@ h3 {
 .Content h2 {
 }
 .Content a {
-    color: #fafad2; /* lightgoldenrodyellow 3/6/12 */
+    /*color: #fafad2; *//* lightgoldenrodyellow 3/6/12 */
+    color: #cfcfcf; /* 3/11/13 same as searchform a */
+
 }
 .Content.Wide {
 }
@@ -281,7 +287,9 @@ h3 {
     /* color: #fafad2; lightgoldenrodyellow 3/6/12 */
     /* #a19d72; old color from ZC site 3/6/13 */ /* #8a8a8a;, maybe use #0088cc, was #999999, was #0088CC; */
     /* color: #eee8aa; palegoldenrod 3/6/12 */
-    color: #fafad2; /* lightgoldenrodyellow 3/6/12 */
+    /*color: #fafad2; *//* lightgoldenrodyellow 3/6/12 */
+    color: #cfcfcf; /* 3/11/13 same as searchform a */
+
 }
 .ProductList strong a:hover {
 	/*color: #0066cc;*/
@@ -604,6 +612,8 @@ table.General tbody tr td {
 /* additional custom styles March 2013 */
 
 .BlockContent a {
-    color: #fafad2; /* lightgoldenrodyellow 3/6/12 */
     text-decoration: none;
+}
+.BlockContent a:hover {
+    text-decoration: underline;
 }
