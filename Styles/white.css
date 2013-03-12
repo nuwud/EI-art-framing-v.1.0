@@ -164,6 +164,19 @@ h3 {
 #Header {
     background-color: #003300;
     height: auto;
+    margin-top: 25px;
+    display: inline;
+    text-align: center;
+}
+#Header h1 {
+    /*margin: 4px 0 0 0;*/
+    font-size: 2.6em;
+    color: #eee8aa; /* 3/10/13 was #000 */
+}
+#Header h1 a {
+    text-decoration: none;
+    color: #eee8aa; /* 3/10/13 was #000 */
+    font-weight: bold;
 }
 #Wrapper {
     background-color: #003300; /* very dark forest green is #003300 tested with maroon etc. added 1/17/12 */
@@ -174,24 +187,12 @@ h3 {
 }
 /* 3/11/13 do not need the logo div, can remove it and style the header div instead, which is more syntactically correct */
 #Logo {
-    width: 980px;
-    height: auto; /* 3/11/13 override, not specific height */
-    margin-top: 25px;
-    display: inline;
-    background-color: #003300;
-    text-align: center;
 }
 #Logo h1 {
-    /*margin: 4px 0 0 0;*/
-    font-size: 2.6em;
-    color: #eee8aa; /* 3/10/13 was #000 */
 }
 #Logo #LogoImage {
 }
 #Logo h1 a {
-    text-decoration: none;
-    color: #eee8aa; /* 3/10/13 was #000 */
-    font-weight: bold;
 }
 
 
