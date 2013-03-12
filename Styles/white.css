@@ -71,7 +71,7 @@ body {
     /* color: #fafad2; lightgoldenrodyellow 3/6/12 #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
     color: #eee8aa; /* palegoldenrod 3/6/12 */
     /* color: #f8f8ff; /* ghostwhite 3/6/12 */
-    font-size:.9em; /* 3/11/13 larger more readable */
+    font-size:.8em; /* 3/11/13 .9 em larger more readable, styles.css says .8 em, 3/12/13 experimented with different base sizes, leaving size at .9em */
 }
 a {
     /*color: #fafad2; *//* lightgoldenrodyellow 3/6/12 */
@@ -164,7 +164,7 @@ h3 {
 #Header {
     background-color: #003300;
     height: auto;
-    margin-top: 25px;
+    margin-top: 20px;
     display: inline;
     text-align: center;
 }
@@ -173,10 +173,12 @@ h3 {
     font-size: 2.6em;
     color: #eee8aa; /* 3/10/13 was #000 */
 }
-#Header h1 a {
+#Header a {
     text-decoration: none;
     color: #eee8aa; /* 3/10/13 was #000 */
     font-weight: bold;
+}
+#Header img {
 }
 #Wrapper {
     background-color: #003300; /* very dark forest green is #003300 tested with maroon etc. added 1/17/12 */
@@ -185,7 +187,7 @@ h3 {
     /* color: #f8f8ff; /* ghostwhite 3/6/12 */
 
 }
-/* 3/11/13 do not need the logo div, can remove it and style the header div instead, which is more syntactically correct */
+/* 3/12/13 do not need logo div, removed it, styled header div instead, which is more syntactically correct */
 #Logo {
 }
 #Logo h1 {
