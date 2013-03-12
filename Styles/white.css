@@ -172,14 +172,14 @@ h3 {
     /* color: #f8f8ff; /* ghostwhite 3/6/12 */
 
 }
-#LogoContainer { /* 3/10/13 custom css */
-    background-color: #003300;
-}
+/* 3/11/13 do not need the logo div, can remove it and style the header div instead, which is more syntactically correct */
 #Logo {
     width: 980px;
     height: auto; /* 3/11/13 override, not specific height */
     margin-top: 25px;
     display: inline;
+    background-color: #003300;
+    text-align: center;
 }
 #Logo h1 {
     /*margin: 4px 0 0 0;*/
