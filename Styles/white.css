@@ -1,7 +1,7 @@
 /* Color: White */
 /*
 3/5/13 white.css is custom css for white art framing, all custominzng done in this css since it's loaded last
-3/5/13 initial changes: no background gif, declare webfonts before body, all body and Hx text uses webfonts
+3/5/13 initial changes: no background gif, declare webfonts before body, all body and Hx text use webfonts
 */
 @font-face {
     font-family: 'BitstreamVeraSansRoman';
@@ -43,6 +43,7 @@
     font-weight: normal;
     font-style: normal;
 }
+/*
 @font-face {
     font-family: 'SortsMillGoudyRegular';
     src: url('webfonts/webfonts/GoudyStM-webfont.eot');
@@ -63,10 +64,11 @@
     font-weight: normal;
     font-style: normal;
 }
+*/
 body {
 	/* background: #f4f4f4 url(../../ArtFraming/images/white/BodyBg.gif) 50% 0 no-repeat; 3/5/13 commented out */
 	/*color: #606060;*/
-    font-family: BitstreamVeraSansRoman, Arial, sans-serif;
+    font-family: BitstreamVeraSansRoman, sans-serif;
     background-color: #003300; /* very dark forest green is #003300 tested with maroon etc. added 1/17/12 */
     /* color: #fafad2; lightgoldenrodyellow 3/6/12 #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
     color: #eee8aa; /* palegoldenrod 3/6/12 */
@@ -88,7 +90,7 @@ a:hover {
     text-decoration: underline;
 }
 h1,h2,h3,h4,h5,h6 {
-    font-family: SortsMillGoudyRegular, Cambria, serif;
+    font-family: SortsMillGoudyRegular, serif;
     /* #eee8aa; 3/6/12 *//* #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
     /* color: #fafad2; lightgoldenrodyellow 3/6/12 */
     color: #eee8aa; /* palegoldenrod 3/6/12 */
@@ -119,7 +121,6 @@ h3 {
 #TopMenu li a {
     /*color: #fafad2; *//* 3/10/13 TO DO change all links to gray like on search menu */
     color: #cfcfcf; /* 3/11/13 same as searchform a */
-
 }
 #TopMenu li div {
 }
@@ -171,7 +172,12 @@ h3 {
 #Header h1 {
     /*margin: 4px 0 0 0;*/
     font-size: 2.6em;
-    color: #eee8aa; /* 3/10/13 was #000 */
+    line-height: 1.4em;
+}
+#Header h3 {
+    /*margin: 4px 0 0 0;*/
+    font-size: 1.6em;
+    line-height: 1em;
 }
 #Header a {
     text-decoration: none;
