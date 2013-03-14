@@ -233,7 +233,7 @@ h3 {
 }
 .Left #SideCategoryList {
 	background: #f4f4f4;
-	border: 1px solid #dadada;
+	/*border: 1px solid #dadada;*/
 }
 .Left #SideCategoryList h2 {
 }
@@ -630,5 +630,5 @@ table.General tbody tr td {
 }
 #Information {
     background-color: red;
-    padding: 5px 0 5px 0;
+    padding: 5px 0 15px 0; /* 3/14/13 based on #SideCategoryList in styles.css */
 }
