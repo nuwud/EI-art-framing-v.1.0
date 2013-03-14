@@ -4,6 +4,26 @@
 3/5/13 initial changes: no background gif, declare webfonts before body, all body and Hx text use webfonts
 */
 @font-face {
+    font-family: 'SortsMillGoudyRegular';
+    src: url('webfonts/webfonts/GoudyStM-webfont.eot');
+    src: url('webfonts/GoudyStM-webfont.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/GoudyStM-webfont.woff') format('woff'),
+    url('webfonts/GoudyStM-webfont.ttf') format('truetype'),
+    url('webfonts/GoudyStM-webfont.svg#SortsMillGoudyRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SortsMillGoudyItalic';
+    src: url('webfonts/GoudyStM-Italic-webfont.eot');
+    src: url('webfonts/GoudyStM-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/GoudyStM-Italic-webfont.woff') format('woff'),
+    url('webfonts/GoudyStM-Italic-webfont.ttf') format('truetype'),
+    url('webfonts/GoudyStM-Italic-webfont.svg#SortsMillGoudyItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
     font-family: 'BitstreamVeraSansRoman';
     src: url('webfonts/Vera-webfont.eot');
     src: url('webfonts/Vera-webfont.eot?#iefix') format('embedded-opentype'),
@@ -43,28 +63,6 @@
     font-weight: normal;
     font-style: normal;
 }
-/*
-@font-face {
-    font-family: 'SortsMillGoudyRegular';
-    src: url('webfonts/webfonts/GoudyStM-webfont.eot');
-    src: url('webfonts/GoudyStM-webfont.eot?#iefix') format('embedded-opentype'),
-    url('webfonts/GoudyStM-webfont.woff') format('woff'),
-    url('webfonts/GoudyStM-webfont.ttf') format('truetype'),
-    url('webfonts/GoudyStM-webfont.svg#SortsMillGoudyRegular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'SortsMillGoudyItalic';
-    src: url('webfonts/GoudyStM-Italic-webfont.eot');
-    src: url('webfonts/GoudyStM-Italic-webfont.eot?#iefix') format('embedded-opentype'),
-    url('webfonts/GoudyStM-Italic-webfont.woff') format('woff'),
-    url('webfonts/GoudyStM-Italic-webfont.ttf') format('truetype'),
-    url('webfonts/GoudyStM-Italic-webfont.svg#SortsMillGoudyItalic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-*/
 body {
 	/* background: #f4f4f4 url(../../ArtFraming/images/white/BodyBg.gif) 50% 0 no-repeat; 3/5/13 commented out */
 	/*color: #606060;*/
@@ -629,4 +627,7 @@ table.General tbody tr td {
 }
 .BlockContent a:hover {
     text-decoration: underline;
+}
+#Information {
+    background-color: red;
 }
