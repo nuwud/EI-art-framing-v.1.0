@@ -630,4 +630,5 @@ table.General tbody tr td {
 }
 #Information {
     background-color: red;
+    padding: 5px 0 5px 0;
 }
