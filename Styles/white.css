@@ -221,11 +221,46 @@ h3 {
 }
 
 
+/* Left Content Area */
+/*
+.Left {
+    float: left;
+    width: 180px;
+    margin: 0 10px 0 10px;
+    display: inline;
+}
+.Left .BlockContent {
+    margin: 0 10px 0 10px;
+}
+.Left h2 {
+    font-size: 1.4em;
+    padding: 0 0 10px 10px;
+    margin: 0;
+}
+.Left ul {
+    margin: 0;
+    padding: 0;
+}
+.Left li {
+    clear: both;
+    list-style: none;
+    margin: 0;
+    padding: 3px 0;
+}
+.Left li {
+}
+.Left li a {
+    text-decoration: none;
+}
+.Left li a:hover {
+    text-decoration: underline;
+}
+*/
+
 .Left {
 }
-.Left h2 {  /* 3/15/13 modified, was 1.4em */
+.Left h2 {
     font-family: BitstreamVeraSansRoman, sans-serif;
-    font-size: 1.2em;
 }
 .Left li {
 }
@@ -236,6 +271,7 @@ h3 {
 .Left #SideCategoryList {
 	background: #f4f4f4;
 	/*border: 1px solid #dadada;*/
+    margin-bottom: 10px;
 }
 .Left #SideCategoryList h2 {
 }
@@ -633,4 +669,19 @@ table.General tbody tr td {
 #Information {
     background-color: red;
     padding: 5px 0 15px 0; /* 3/14/13 based on #SideCategoryList in styles.css */
+}
+.Panel /*3/15/13 derived from bootstrap .well class */
+{
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #660000;
+    border: 1px solid #EEE;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
 }
