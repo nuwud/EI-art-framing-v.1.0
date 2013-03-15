@@ -81,6 +81,7 @@ a {
 	font-weight: normal;
 	/* text-decoration: underline; */
     color: #cfcfcf; /* 3/11/13 same as searchform a, alternative would be #c0c0c0 for silver, also try going back to the EI brown color */
+    text-decoration: none;
 }
 a:hover {
 	/*color: #fafad2;  *//* 3/10/13 was #0066cc; */
@@ -166,6 +167,7 @@ h3 {
     margin-top: 20px;
     display: inline;
     text-align: center;
+    margin-bottom: 10px;
 }
 #Header h1 {
     /*margin: 4px 0 0 0;*/
@@ -258,9 +260,14 @@ h3 {
 */
 
 .Left {
+    float: left;
+    width: 200px;   /* 3/15/13 override 180px width */
+    margin: 0 10px 0 10px;
+    display: inline;
 }
 .Left h2 {
     font-family: BitstreamVeraSansRoman, sans-serif;
+    padding-top:3px;
 }
 .Left li {
 }
@@ -268,21 +275,23 @@ h3 {
 }
 .Left li a:hover {
 }
-.Left #SideCategoryList {
-	background: #f4f4f4;
+.Left #SideCategoryList, .Left #Information {
+	/*background: #f4f4f4;*/
+    background-color: #660000;
 	/*border: 1px solid #dadada;*/
     margin-bottom: 10px;
 }
 .Left #SideCategoryList h2 {
 }
 .Left #SideCategoryList a {
-	color: #000;
+	/*color: #000;*/
+    color: #cfcfcf;
 }
 .Left #SideCategoryList a:hover {
-	color: #0066cc;
+	/*color: #0066cc;*/
+    color: #cfcfcf;
+    text-decoration: none;
 }
-
-
 .Content {
 }
 .Content h2 {
@@ -295,6 +304,11 @@ h3 {
 .Content.Wide {
 }
 .Content.Widest {
+}
+.Content.Wide.WideWithLeft {
+    width: 740px;   /* 3/15/13 override 760px */
+    margin: 0 0 0 10px;
+    display: inline;
 }
 
 
@@ -667,10 +681,15 @@ table.General tbody tr td {
     text-decoration: underline;
 }
 #Information {
-    background-color: red;
-    padding: 5px 0 15px 0; /* 3/14/13 based on #SideCategoryList in styles.css */
+    padding: 5px 0 5px 0; /* 3/14/13 based on #SideCategoryList in styles.css */
 }
-.Panel /*3/15/13 derived from bootstrap .well class */
+#Information .BlockContent {
+    padding-left: 8px;
+}
+#Information .BlockContent li {
+    margin-bottom: 3px;
+}
+.Sidebox /*3/15/13 derived from bootstrap .well class */
 {
     min-height: 20px;
     padding: 19px;
