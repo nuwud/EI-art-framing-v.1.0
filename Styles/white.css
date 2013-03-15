@@ -223,8 +223,9 @@ h3 {
 
 .Left {
 }
-.Left h2 {
+.Left h2 {  /* 3/15/13 modified, was 1.4em */
     font-family: BitstreamVeraSansRoman, sans-serif;
+    font-size: 1.2em;
 }
 .Left li {
 }
