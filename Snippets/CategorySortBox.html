@@ -1,5 +1,5 @@
 <div class="FloatRight SortBox">
-	<form action="%%GLOBAL_URL%%" method="get">
+	<form action="%%GLOBAL_URL%%"  name="CategorySortForm" method="get">
 		%%GLOBAL_HiddenSortField%%
 		%%LNG_SortBy%%:
 		<select name="sort" id="sort" onchange="this.form.submit()">
@@ -14,3 +14,12 @@
 		</select>
 	</form>
 </div>
+<script type = "text/javascript">
+    if (document.URL == "%%GLOBAL_URL%%")   {
+        document.CategorySortForm.sort[3].selected = "1";
+        document.forms["CategorySortForm"].submit();
+    }
+    else
+    {
+    }
+</script>
