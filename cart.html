@@ -5,19 +5,20 @@
 	<script type="text/javascript" src="%%GLOBAL_CdnAppPath%%/javascript/cart.js?%%GLOBAL_JSCacheToken%%"></script>
 	<div id="Container">
 	%%Panel.Header%%
-
+    <!-- 3/18/13 removed new products, cart breadcrumb -->
 	<div id="Wrapper">
 		%%Panel.WrapperBanner%%
 		<div class="Left" id="LayoutColumn1">
 			%%Panel.SideCategoryList%%
-			%%Panel.SideNewProducts%%
+            %%Panel.Information%%
 			%%Panel.SideNewsletterBox%%
 		</div>
 		<div class="Content" id="LayoutColumn2">
-			%%Panel.CartBreadcrumb%%
 			%%Panel.CartHeader%%
 			%%Panel.CartStatusMessage%%
 			%%Panel.CartContent%%
+            %%Panel.SideCouponCodeBox%%
+            %%Panel.SideGiftCertificateCodeBox%%
 			%%Panel.SuggestiveCartContent%%
 		</div>
 		<div class="Right" id="LayoutColumn3">
