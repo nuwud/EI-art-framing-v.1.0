@@ -674,3 +674,6 @@ table.CartContents thead tr th, table.General thead tr th {
 .CreateAccount {
     border-right: none;
 }
+#recaptcha_table {
+    border: none; !important
+}
