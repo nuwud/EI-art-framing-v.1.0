@@ -674,6 +674,13 @@ table.CartContents thead tr th, table.General thead tr th {
 .CreateAccount {
     border-right: none;
 }
-#recaptcha_table {
+table.recaptchatable {
     border: none; !important
 }
+/*
+3/18/13 want jQ to change this: border: 1px solid #dfdfdf!important; to border: none;
+.recaptchatable {
+line-height: 1em;
+border: 1px solid #dfdfdf!important;
+}
+*/
