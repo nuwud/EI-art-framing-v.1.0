@@ -483,7 +483,15 @@ hr {
 table.General tbody tr td {
 	border-top: 1px solid #dadada;
 }
-
+/* 3/18/13 cart contents table */
+table.CartContents thead tr th {
+    background: #003300;
+    color: #eee8aa;
+}
+.SubTotal {
+    color: #eee8aa;
+    font-weight: normal;
+}
 
 /* Tabbed Navigation */
 .TabNav {
