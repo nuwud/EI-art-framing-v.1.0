@@ -5,7 +5,7 @@
 	<script type="text/javascript" src="%%GLOBAL_CdnAppPath%%/javascript/cart.js?%%GLOBAL_JSCacheToken%%"></script>
 	<div id="Container">
 	%%Panel.Header%%
-    <!-- 3/18/13 removed new products, cart breadcrumb -->
+    <!-- 3/18/13 removed new products, cart breadcrumb, right column -->
 	<div id="Wrapper">
 		%%Panel.WrapperBanner%%
 		<div class="Left" id="LayoutColumn1">
@@ -13,7 +13,7 @@
             %%Panel.Information%%
 			%%Panel.SideNewsletterBox%%
 		</div>
-		<div class="Content" id="LayoutColumn2">
+        <div class="Content Wide WideWithLeft" id="LayoutColumn2">
 			%%Panel.CartHeader%%
 			%%Panel.CartStatusMessage%%
 			%%Panel.CartContent%%
@@ -21,13 +21,6 @@
             %%Panel.SideGiftCertificateCodeBox%%
 			%%Panel.SuggestiveCartContent%%
 		</div>
-		<div class="Right" id="LayoutColumn3">
-			%%Panel.SideCouponCodeBox%%
-			%%Panel.SideGiftCertificateCodeBox%%
-			%%Panel.SideProductRecentlyViewed%%
-			%%Panel.SideTopSellers%%
-		</div>
-		<br class="Clear" />
 	</div>
 	%%Panel.Footer%%
 </div>

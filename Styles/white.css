@@ -371,21 +371,6 @@ h3 {
 	background: url('../../ArtFraming/images/white/Cart.gif') no-repeat 0 50%;
 }
 
-table.CartContents, table.General {
-	border: 1px solid #dadada;
-}
-
-table.CartContents thead tr th, table.General thead tr th {
-	background: #f4f4f4;
-	color: #2f2f2f;
-	border-bottom: 1px solid #dadada;
-}
-
-.CartContents tfoot .SubTotal td {
-	border-top: 1px solid #dadada;
-	color: #606060;
-}
-
 .JustAddedProduct {
 	border: 1px solid #dadada;
 	background: #fff;
@@ -481,17 +466,26 @@ hr {
 
 /* General Tables */
 table.General tbody tr td {
-	border-top: 1px solid #dadada;
+	/*border-top: 1px solid #dadada;*/
 }
 /* 3/18/13 cart contents table */
-table.CartContents thead tr th {
+table.CartContents, table.General {
+    /*border: 1px solid #dadada;*/
+    border-collapse: collapse;
+    border: none;
+}
+table.CartContents thead tr th, table.General thead tr th {
     background: #003300;
     color: #eee8aa;
+    /*border-bottom: 1px solid #dadada;*/
 }
-.SubTotal {
+.CartContents tfoot .SubTotal td {
+    /*border-top: 1px solid #dadada;*/
+    /*color: #606060;*/
     color: #eee8aa;
-    font-weight: normal;
+    border: none;
 }
+
 
 /* Tabbed Navigation */
 .TabNav {
@@ -676,4 +670,7 @@ table.CartContents thead tr th {
 }
 #ProductDetails .ProductTinyImageList ul li {
     background: white;
+}
+.CreateAccount {
+    border-right: none;
 }
