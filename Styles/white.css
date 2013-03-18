@@ -716,3 +716,9 @@ table.General tbody tr td {
     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
 }
+.SortBox { /* 3/18/13 hide the product sorting box, defaulted in CategorySortBox snippet to A-Z order */
+    display: none;
+}
+.FormContainer .HorizontalFormContainer dt {
+    font-weight: bold;
+}
