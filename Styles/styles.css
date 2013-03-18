@@ -1,4 +1,65 @@
-/* Global Reset */
+/* 3/18/13 declare all webfonts */
+@font-face {
+    font-family: 'SortsMillGoudyRegular';
+    src: url('webfonts/webfonts/GoudyStM-webfont.eot');
+    src: url('webfonts/GoudyStM-webfont.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/GoudyStM-webfont.woff') format('woff'),
+    url('webfonts/GoudyStM-webfont.ttf') format('truetype'),
+    url('webfonts/GoudyStM-webfont.svg#SortsMillGoudyRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SortsMillGoudyItalic';
+    src: url('webfonts/GoudyStM-Italic-webfont.eot');
+    src: url('webfonts/GoudyStM-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/GoudyStM-Italic-webfont.woff') format('woff'),
+    url('webfonts/GoudyStM-Italic-webfont.ttf') format('truetype'),
+    url('webfonts/GoudyStM-Italic-webfont.svg#SortsMillGoudyItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BitstreamVeraSansRoman';
+    src: url('webfonts/Vera-webfont.eot');
+    src: url('webfonts/Vera-webfont.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/Vera-webfont.woff') format('woff'),
+    url('webfonts/Vera-webfont.ttf') format('truetype'),
+    url('webfonts/Vera-webfont.svg#BitstreamVeraSansRoman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BitstreamVeraSansOblique';
+    src: url('webfonts/Vera-Italic-webfont.eot');
+    src: url('webfonts/Vera-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/Vera-Italic-webfont.woff') format('woff'),
+    url('webfonts/Vera-Italic-webfont.ttf') format('truetype'),
+    url('webfonts/Vera-Italic-webfont.svg#BitstreamVeraSansOblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BitstreamVeraSansBold';
+    src: url('webfonts/webfonts/Vera-Bold-webfont.eot');
+    src: url('webfonts/Vera-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/Vera-Bold-webfont.woff') format('woff'),
+    url('webfonts/Vera-Bold-webfont.ttf') format('truetype'),
+    url('webfonts/Vera-Bold-webfont.svg#BitstreamVeraSansBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BitstreamVeraSansBoldOblique';
+    src: url('webfonts/Vera-Bold-Italic-webfont.eot');
+    src: url('webfonts/Vera-Bold-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/Vera-Bold-Italic-webfont.woff') format('woff'),
+    url('webfonts/Vera-Bold-Italic-webfont.ttf') format('truetype'),
+    url('webfonts/Vera-Bold-Italic-webfont.svg#BitstreamVeraSansBoldOblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}/* Global Reset */
 * {
 	margin: 0;
 	padding: 0;
@@ -6,7 +67,8 @@
 
 /* General */
 body {
-	font-family: Arial, Helvetica, sans-serif;
+	/*font-family: Arial, Helvetica, sans-serif;*/
+    font-family: BitstreamVeraSansRoman, Arial, Helvetica, sans-serif !important;
 	font-size: 0.8em;
 	height: 100%;
 }
@@ -23,6 +85,9 @@ p {
 a {
 	font-weight: normal;
 	text-decoration: underline;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: SortsMillGoudyRegular, "Times New Roman", Times, serif !important;
 }
 h2 {
 	font-size: 2em;
