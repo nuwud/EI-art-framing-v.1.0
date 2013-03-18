@@ -335,8 +335,11 @@ h3 {
 
 
 #Footer {
+/*
 	background: #f4f4f4;
 	border: 1px solid #dadada;
+*/
+    background: #003300;
 }
 
 
@@ -730,8 +733,4 @@ table.General tbody tr td {
     margin-left:3px;
     border: none;
     background-color: white;
-}
-#ProductDetails .ProductTinyImageList ul li a:hover {
-    text-decoration: none;
-    border: 2px solid #ffffff;
 }
