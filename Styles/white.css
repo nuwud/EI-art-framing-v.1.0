@@ -290,7 +290,16 @@ h3 {
 .Left #SideCategoryList a:hover {
 	/*color: #0066cc;*/
     color: #cfcfcf;
-    text-decoration: none;
+    text-decoration: underline;
+}
+.Left #SideCategoryList {
+    padding: 5px 0 5px 0; /* 3/14/13 based on #SideCategoryList in styles.css */
+}
+.Left #SideCategoryList .BlockContent {
+    padding-left: 8px;
+}
+.Left #SideCategoryList .BlockContent li {
+    margin-bottom: 3px;
 }
 .Content {
 }
