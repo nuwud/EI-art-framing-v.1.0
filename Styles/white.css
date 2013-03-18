@@ -731,3 +731,6 @@ table.General tbody tr td {
     border: none;
     background-color: white;
 }
+#ProductDetails .ProductTinyImageList ul li a:hover {
+    text-decoration: none;
+}
