@@ -24,3 +24,11 @@
 		%%SNIPPET_FastCartThickBoxJs%%
 
         %%GLOBAL_DebugDetails%%
+        <script type="text/javascript" >
+            function highlightProductTinyImage(ThumbIndex) {
+                $('.ProductTinyImageList li').css('border', 'none');
+                $('.ProductTinyImageList li .TinyOuterDiv').css('border', 'none');
+                $('#TinyImageBox_'+ThumbIndex).css('border', 'none');
+                $('#TinyImageBox_'+ThumbIndex+' .TinyOuterDiv').css('border', 'none');
+            }
+        </script>
