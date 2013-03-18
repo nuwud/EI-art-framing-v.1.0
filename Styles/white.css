@@ -719,6 +719,15 @@ table.General tbody tr td {
 .SortBox { /* 3/18/13 hide the product sorting box, defaulted in CategorySortBox snippet to A-Z order */
     display: none;
 }
-.FormContainer .HorizontalFormContainer dt {
+.HorizontalFormContainer dt {
     font-weight: bold;
+}
+#ProductDetails .ProductTinyImageList ul li {
+    width: 40px;
+    height: 30px;
+    overflow: hidden;
+    float: left;
+    margin-left:3px;
+    border: none;
+    background-color: white;
 }
