@@ -678,6 +678,7 @@ table.CartContents thead tr th, table.General thead tr th {
 }
 .recaptchatable-noborder {
     background-color: white; /* 3/19/13 figuratively removes white border instead of having blue border */
+    width: 440px; /* 3/19/13 width call makes recaptcha buttons and logo display properly */
 }
 /*
 3/18/13 want jQ to change this: border: 1px solid #dfdfdf!important; to border: none;

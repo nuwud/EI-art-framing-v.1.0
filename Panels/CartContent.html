@@ -48,14 +48,14 @@ lang.EnterZip = '%%LNG_EnterShippingZip%%';
 									<hr />
 								</div>
 								<dl>
-									<dt><span class="Required">*</span>&nbsp;%%LNG_Country%%:</dt>
+									<dt>%%LNG_Country%%: <span class="Required">*</span></dt>
 									<dd>
 										<select class="Field200" name="shippingZoneCountry" id="shippingZoneCountry" onchange="Cart.ToggleShippingEstimateCountry();">
 											%%GLOBAL_ShippingCountryList%%
 										</select>
 									</dd>
 
-									<dt><span class="Required" id="shippingZoneStateRequired">*</span>&nbsp;%%LNG_StateProvince%%:</dt>
+									<dt>%%LNG_StateProvince%%: <span class="Required" id="shippingZoneStateRequired">*</span></dt>
 									<dd>
 										<select style="display: %%GLOBAL_ShippingHideStateList%%" class="Field200" name="shippingZoneState" id="shippingZoneState">
 											%%GLOBAL_ShippingStateList%%
@@ -63,7 +63,7 @@ lang.EnterZip = '%%LNG_EnterShippingZip%%';
 										<input style="display: %%GLOBAL_ShippingHideStateBox%%" type="text" class="Textbox Field200" name="shippingZoneStateName" id="shippingZoneStateName" value="%%GLOBAL_AddressState%%" />
 									</dd>
 
-									<dt><span class="Required">*</span>&nbsp;%%LNG_ZipPostcode%%:</dt>
+									<dt>%%LNG_ZipPostcode%%: <span class="Required">*</span></dt>
 									<dd><input type="text" class="Field100 Textbox" name="shippingZoneZip" id="shippingZoneZip" value="%%GLOBAL_ShippingZip%%" /></dd>
 								</dl>
 								<p class="Submit EstimateShippingButtons">
