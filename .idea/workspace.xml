@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="caa6e6f7-c1a5-43a6-9c00-08330d029b71" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Snippets/ExpressCheckoutCreateAccount.html" afterPath="$PROJECT_DIR$/Snippets/ExpressCheckoutCreateAccount.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Styles/white.css" afterPath="$PROJECT_DIR$/Styles/white.css" />
+    </list>
+    <ignored path="EI-art-framing-v.1.0.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363719556508" ignored="false" />
+    <file path="/white.css" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363720718497" ignored="false" />
+    <file path="/HTMLHead.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363117750447" ignored="false" />
+    <file path="/default.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363116566180" ignored="false" />
+    <file path="/a.dummy" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363721165396" ignored="false" />
+    <file path="/TopMenu.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363036477964" ignored="false" />
+    <file path="/.htaccess" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363039341292" ignored="false" />
+    <file path="/Header.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363719139266" ignored="false" />
+    <file path="/Information.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363629474653" ignored="false" />
+    <file path="/SideCategoryList.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363371998034" ignored="false" />
+    <file path="/_category.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363631952968" ignored="false" />
+    <file path="/_page.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363620624238" ignored="false" />
+    <file path="/page_contact_form.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363634439813" ignored="false" />
+    <file path="/product.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363633395883" ignored="false" />
+    <file path="/Footer.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363638588820" ignored="false" />
+    <file path="/styles.css" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363640453455" ignored="false" />
+    <file path="/cart.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363643237318" ignored="false" />
+    <file path="/LoginForm.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363707362878" ignored="false" />
+    <file path="/login.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363646438223" ignored="false" />
+    <file path="/createaccount.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363646810784" ignored="false" />
+    <file path="/CreateAccountForm.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363721155533" ignored="false" />
+    <file path="/CartContent.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363703034228" ignored="false" />
+    <file path="/checkout_express.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363707325300" ignored="false" />
+    <file path="/ExpressCheckoutCreateAccount.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363721319044" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="EI-art-framing-v.1.0" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="white.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Styles/white.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="679" column="74" selection-start="15416" selection-end="15416" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Styles/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="102" column="1" selection-start="3340" selection-end="3386" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateAccountForm.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Panels/CreateAccountForm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="33" selection-start="675" selection-end="675" vertical-scroll-proportion="-1.7307693">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExpressCheckoutCreateAccount.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Snippets/ExpressCheckoutCreateAccount.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="69" selection-start="190" selection-end="190" vertical-scroll-proportion="-1.9615384">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditAccountForm.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Panels/EditAccountForm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="37" selection-start="821" selection-end="821" vertical-scroll-proportion="0.6666667">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginForm.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Panels/LoginForm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="27" selection-start="1392" selection-end="1392" vertical-scroll-proportion="-19.615385">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Header.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Panels/Header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="25" selection-start="170" selection-end="170" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/Panels/HTMLHead.html" />
+        <option value="$PROJECT_DIR$/createaccount.html" />
+        <option value="$PROJECT_DIR$/Panels/ProductDescription.html" />
+        <option value="$PROJECT_DIR$/Panels/ProductVendorsOtherProducts.html" />
+        <option value="$PROJECT_DIR$/Panels/ProductByCategory.html" />
+        <option value="$PROJECT_DIR$/Snippets/ProductReviewItem.html" />
+        <option value="$PROJECT_DIR$/product_comments.html" />
+        <option value="$PROJECT_DIR$/product.html" />
+        <option value="$PROJECT_DIR$/Panels/CartContent.html" />
+        <option value="$PROJECT_DIR$/Panels/LoginForm.html" />
+        <option value="$PROJECT_DIR$/checkout_express.html" />
+        <option value="$PROJECT_DIR$/Panels/Header.html" />
+        <option value="$PROJECT_DIR$/Styles/white.css" />
+        <option value="$PROJECT_DIR$/Panels/CreateAccountForm.html" />
+        <option value="$PROJECT_DIR$/Snippets/ExpressCheckoutCreateAccount.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="77" />
+    <option name="width" value="1527" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EI-art-framing-v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EI-art-framing-v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EI-art-framing-v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="271" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="271" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="271" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="last_opened_file_path" value="$USER_HOME$/2013 CRHEI Website Redesign/stylesheets_ZC_bootstrap/stylesheet_bootstrap.min.css" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="271" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="946" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="945" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="271" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="270" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FullScreen" value="false" />
+    <property name="options.splitter.details.proportions" value="0.354067" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="Essex Industries BC FTP" serverId="fcdee599-6d35-4c37-b684-0daed84a6d82" uploadOnCheckin="fcdee599-6d35-4c37-b684-0daed84a6d82" notifyRemoteChanges="true">
+    <servers>
+      <server id="fcdee599-6d35-4c37-b684-0daed84a6d82">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/template" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+    <option name="myUploadOnCheckinName" value="Essex Industries BC FTP" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BOX\My Box Files\Github\EI-art-framing-v.1.0" />
+      <recent name="D:\BOX\My Box Files\Github\EI-art-framing-v.1.0\Styles" />
+      <recent name="D:\BOX\My Box Files\Github\EI-art-framing-v.1.0\Styles\webfonts" />
+      <recent name="D:\BOX\Github\EI-art-framing-v.1.0" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caa6e6f7-c1a5-43a6-9c00-08330d029b71" name="Default" comment="" />
+      <created>1362084034359</created>
+      <updated>1362084034359</updated>
+    </task>
+    <task id="LOCAL-00001" summary="testing">
+      <created>1362085145347</created>
+      <updated>1362085145347</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new readme file replacing old one">
+      <created>1362422272367</created>
+      <updated>1362422272367</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new readme file replacing old one">
+      <created>1362423829022</created>
+      <updated>1362423829022</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new readme file replacing old one">
+      <created>1362443855614</created>
+      <updated>1362443855614</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add webfonts, revised white.css">
+      <created>1362514103777</created>
+      <updated>1362514103777</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new body colors">
+      <created>1362514493504</created>
+      <updated>1362514493504</updated>
+    </task>
+    <task id="LOCAL-00007" summary="body text, anchor tags, new colors">
+      <created>1362515371570</created>
+      <updated>1362515371570</updated>
+    </task>
+    <task id="LOCAL-00008" summary="product list anchor tag color change">
+      <created>1362582241766</created>
+      <updated>1362582241766</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Hx tags palegoldenrod, A tags lightgoldenrodyellow">
+      <created>1362582771874</created>
+      <updated>1362582771874</updated>
+    </task>
+    <task id="LOCAL-00010" summary="3/7/12: add google webfonts call to get sorts mill goudy font">
+      <created>1362679759268</created>
+      <updated>1362679759268</updated>
+    </task>
+    <task id="LOCAL-00011" summary="3/7/12: remove sorts mill goudy font from fonts list">
+      <created>1362679825384</created>
+      <updated>1362679825384</updated>
+    </task>
+    <task id="LOCAL-00012" summary="3/7/12: removed all but vera sans webfont">
+      <created>1362679943786</created>
+      <updated>1362679943786</updated>
+    </task>
+    <task id="LOCAL-00013" summary="3/7/12: corrected import url statement">
+      <created>1362680163457</created>
+      <updated>1362680163457</updated>
+    </task>
+    <task id="LOCAL-00014" summary="3/7/12: new link rel statement instead of import">
+      <created>1362680313174</created>
+      <updated>1362680313174</updated>
+    </task>
+    <task id="LOCAL-00015" summary="3/7/12: add sorts mill goudy back into webfonts">
+      <created>1362682394934</created>
+      <updated>1362682394934</updated>
+    </task>
+    <task id="LOCAL-00016" summary="3/7/12: add sorts mill goudy back into webfonts list">
+      <created>1362682418835</created>
+      <updated>1362682418835</updated>
+    </task>
+    <task id="LOCAL-00017" summary="3/7/12: add sorts mill goudy back into webfonts list">
+      <created>1362682630674</created>
+      <updated>1362682630674</updated>
+    </task>
+    <task id="LOCAL-00018" summary="3/7/12: remove right side column, see what happens">
+      <created>1362685763609</created>
+      <updated>1362685763609</updated>
+    </task>
+    <task id="LOCAL-00019" summary="3/7/12: proper css for 2nd column">
+      <created>1362685945346</created>
+      <updated>1362685945346</updated>
+    </task>
+    <task id="LOCAL-00020" summary="3/7/12: removed brands panel">
+      <created>1362686000960</created>
+      <updated>1362686000960</updated>
+    </task>
+    <task id="LOCAL-00021" summary="3/7/12: removed %%Panel.SidePopularVendors%% and %%Panel.SideLiveChatServices%%">
+      <created>1362686128013</created>
+      <updated>1362686128013</updated>
+    </task>
+    <task id="LOCAL-00022" summary="3/10/13: stylesheet revisions">
+      <created>1362947126869</created>
+      <updated>1362947126869</updated>
+    </task>
+    <task id="LOCAL-00023" summary="3/10/13: stylesheet revisions #2">
+      <created>1362947953560</created>
+      <updated>1362947953560</updated>
+    </task>
+    <task id="LOCAL-00024" summary="3/10/13: new category template">
+      <created>1362948123613</created>
+      <updated>1362948123613</updated>
+    </task>
+    <task id="LOCAL-00025" summary="3/10/13: new category template revision #2">
+      <created>1362948631201</created>
+      <updated>1362948631201</updated>
+    </task>
+    <task id="LOCAL-00026" summary="3/10/13: float top menu left side">
+      <created>1362949267138</created>
+      <updated>1362949267138</updated>
+    </task>
+    <task id="LOCAL-00027" summary="3/10/13: float top menu left side #2, removed panels from category template">
+      <created>1362949452598</created>
+      <updated>1362949452598</updated>
+    </task>
+    <task id="LOCAL-00028" summary="3/10/13: float top menu left side #3">
+      <created>1362949570961</created>
+      <updated>1362949570961</updated>
+    </task>
+    <task id="LOCAL-00029" summary="3/10/13: float top menu left side, add search to right side">
+      <created>1362949917603</created>
+      <updated>1362949917603</updated>
+    </task>
+    <task id="LOCAL-00030" summary="3/10/13: removed search, moved to topmenu panel">
+      <created>1362949946741</created>
+      <updated>1362949946741</updated>
+    </task>
+    <task id="LOCAL-00031" summary="3/10/13: #searchform floated right, #topmenu given auto width, height, override styles.css">
+      <created>1362950100719</created>
+      <updated>1362950100719</updated>
+    </task>
+    <task id="LOCAL-00032" summary="3/10/13: float menu and search divs left and right within topmenu div">
+      <created>1362950530458</created>
+      <updated>1362950530458</updated>
+    </task>
+    <task id="LOCAL-00033" summary="3/10/13: float menu and search divs left and right within topmenu div #2">
+      <created>1362950700667</created>
+      <updated>1362950700667</updated>
+    </task>
+    <task id="LOCAL-00034" summary="3/10/13: top menu color changes #1">
+      <created>1362950817524</created>
+      <updated>1362950817524</updated>
+    </task>
+    <task id="LOCAL-00035" summary="3/10/13: top menu color changes #2">
+      <created>1362950882286</created>
+      <updated>1362950882286</updated>
+    </task>
+    <task id="LOCAL-00036" summary="3/10/13: move search form upwards a little">
+      <created>1362951091333</created>
+      <updated>1362951091333</updated>
+    </task>
+    <task id="LOCAL-00037" summary="3/10/13: move search form upwards a little #2">
+      <created>1362951427824</created>
+      <updated>1362951427824</updated>
+    </task>
+    <task id="LOCAL-00038" summary="3/10/13: alter topmenu panel to move it properly down">
+      <created>1362951757976</created>
+      <updated>1362951757976</updated>
+    </task>
+    <task id="LOCAL-00039" summary="3/10/13: alter topmenu panel with padding to move it properly down">
+      <created>1362951858878</created>
+      <updated>1362951858878</updated>
+    </task>
+    <task id="LOCAL-00040" summary="3/10/13: create custom style for LogoContainer div">
+      <created>1362952035128</created>
+      <updated>1362952035128</updated>
+    </task>
+    <task id="LOCAL-00041" summary="3/10/13: create custom style for Container div">
+      <created>1362952096040</created>
+      <updated>1362952096040</updated>
+    </task>
+    <task id="LOCAL-00042" summary="3/10/13: create custom style for header div, not container div">
+      <created>1362952154380</created>
+      <updated>1362952154380</updated>
+    </task>
+    <task id="LOCAL-00043" summary="3/10/13: create custom style for outer div and header text">
+      <created>1362952247629</created>
+      <updated>1362952247629</updated>
+    </task>
+    <task id="LOCAL-00044" summary="3/10/13: create custom style for header text">
+      <created>1362952308889</created>
+      <updated>1362952308889</updated>
+    </task>
+    <task id="LOCAL-00045" summary="3/10/13: create custom style for header H1 text">
+      <created>1362952516541</created>
+      <updated>1362952516541</updated>
+    </task>
+    <task id="LOCAL-00046" summary="3/10/13: change global A tag hover color">
+      <created>1362952729162</created>
+      <updated>1362952729162</updated>
+    </task>
+    <task id="LOCAL-00047" summary="3/10/13: changed sign in and create account to be separate list item links">
+      <created>1362954310366</created>
+      <updated>1362954310366</updated>
+    </task>
+    <task id="LOCAL-00048" summary="3/10/13: top menu links the right A color">
+      <created>1362954430425</created>
+      <updated>1362954430425</updated>
+    </task>
+    <task id="LOCAL-00049" summary="3/11/13: larger body text size to .9 em">
+      <created>1363023448291</created>
+      <updated>1363023448291</updated>
+    </task>
+    <task id="LOCAL-00050" summary="3/11/13: logo h1 bold">
+      <created>1363023578559</created>
+      <updated>1363023578559</updated>
+    </task>
+    <task id="LOCAL-00051" summary="3/11/13: logo div style revisions">
+      <created>1363023969162</created>
+      <updated>1363023969162</updated>
+    </task>
+    <task id="LOCAL-00052" summary="3/11/13: h1 style revisions">
+      <created>1363024047132</created>
+      <updated>1363024047132</updated>
+    </task>
+    <task id="LOCAL-00053" summary="3/11/13: new color A tags, put font-awesome css ready to use">
+      <created>1363029404239</created>
+      <updated>1363029404239</updated>
+    </task>
+    <task id="LOCAL-00054" summary="3/11/13: new color A tags all properly applied">
+      <created>1363029790893</created>
+      <updated>1363029790893</updated>
+    </task>
+    <task id="LOCAL-00055" summary="3/11/13: more padding on top menu, revised styles">
+      <created>1363033016464</created>
+      <updated>1363033016464</updated>
+    </task>
+    <task id="LOCAL-00056" summary="3/11/13: removed strong tag on 'advanced search'">
+      <created>1363033295653</created>
+      <updated>1363033295653</updated>
+    </task>
+    <task id="LOCAL-00057" summary="3/11/13: add font awesome link">
+      <created>1363033460751</created>
+      <updated>1363033460752</updated>
+    </task>
+    <task id="LOCAL-00058" summary="3/11/13: add font awesome css link to htmlhead and home icon into top menu">
+      <created>1363034096563</created>
+      <updated>1363034096563</updated>
+    </task>
+    <task id="LOCAL-00059" summary="3/11/13: correct code for font awesome to work cross-browser and add EI logo to header panel">
+      <created>1363041111537</created>
+      <updated>1363041111537</updated>
+    </task>
+    <task id="LOCAL-00060" summary="3/11/13: remove font awesome css file, set proper cdn for font awesome, revised header content and styles">
+      <created>1363042350617</created>
+      <updated>1363042350617</updated>
+    </task>
+    <task id="LOCAL-00061" summary="3/12/13: removed logo div, now have logo and stuff within header div">
+      <created>1363095491936</created>
+      <updated>1363095491936</updated>
+    </task>
+    <task id="LOCAL-00062" summary="3/12/13: removed logo div, now have logo and stuff within header div">
+      <created>1363095731944</created>
+      <updated>1363095731944</updated>
+    </task>
+    <task id="LOCAL-00063" summary="3/12/13: removed global logo code">
+      <created>1363096228382</created>
+      <updated>1363096228382</updated>
+    </task>
+    <task id="LOCAL-00064" summary="3/12/13: add x-ua and viewport meta tags; clean up header panel code; style #header section">
+      <created>1363102523009</created>
+      <updated>1363102523009</updated>
+    </task>
+    <task id="LOCAL-00065" summary="3/12/13: new information panel added to default page">
+      <created>1363116620361</created>
+      <updated>1363116620361</updated>
+    </task>
+    <task id="LOCAL-00066" summary="3/14/13: removed PagesMenu panel">
+      <created>1363294188095</created>
+      <updated>1363294188095</updated>
+    </task>
+    <task id="LOCAL-00067" summary="3/14/13: first commit today no changes since tuesday">
+      <created>1363294233768</created>
+      <updated>1363294233768</updated>
+    </task>
+    <task id="LOCAL-00068" summary="3/14/13: first commit today no changes since tuesday">
+      <created>1363294261048</created>
+      <updated>1363294261048</updated>
+    </task>
+    <task id="LOCAL-00069" summary="3/14/13: first commit today no changes since tuesday, needs styles to resemble products list">
+      <created>1363294295809</created>
+      <updated>1363294295809</updated>
+    </task>
+    <task id="LOCAL-00070" summary="3/14/13: first commit today no changes since tuesday">
+      <created>1363294321362</created>
+      <updated>1363294321362</updated>
+    </task>
+    <task id="LOCAL-00071" summary="3/14/13: comment out afterSideCategoryList div which is a br clear both">
+      <created>1363294574799</created>
+      <updated>1363294574799</updated>
+    </task>
+    <task id="LOCAL-00072" summary="3/14/13: restore afterSideCategoryList div which is a br clear both, category panel will not display correctly without it">
+      <created>1363294731277</created>
+      <updated>1363294731277</updated>
+    </task>
+    <task id="LOCAL-00073" summary="3/14/13: add br clear both bottom info panel, padding top/bottom info panel">
+      <created>1363294993844</created>
+      <updated>1363294993844</updated>
+    </task>
+    <task id="LOCAL-00074" summary="3/14/13: fine tuning info panel">
+      <created>1363295079045</created>
+      <updated>1363295079045</updated>
+    </task>
+    <task id="LOCAL-00075" summary="3/14/13: make only the text per se a clickable link">
+      <created>1363295711880</created>
+      <updated>1363295711880</updated>
+    </task>
+    <task id="LOCAL-00076" summary="3/14/13: fixed h3 tag in header, must replace with other code">
+      <created>1363296811892</created>
+      <updated>1363296811892</updated>
+    </task>
+    <task id="LOCAL-00077" summary="3/14/13: left column H2 list names in Vera not Goudy">
+      <created>1363297154131</created>
+      <updated>1363297154131</updated>
+    </task>
+    <task id="LOCAL-00078" summary="3/14/13: turn info into unordered list, remove 3rd column from default">
+      <created>1363297571791</created>
+      <updated>1363297571791</updated>
+    </task>
+    <task id="LOCAL-00079" summary="3/15/13: commit leftover changes">
+      <created>1363368050643</created>
+      <updated>1363368050643</updated>
+    </task>
+    <task id="LOCAL-00080" summary="3/15/13: removed  'moveable panel' see what happens">
+      <created>1363368595339</created>
+      <updated>1363368595339</updated>
+    </task>
+    <task id="LOCAL-00081" summary="3/15/13: removed  'categorylist' see what happens">
+      <created>1363368674196</created>
+      <updated>1363368674196</updated>
+    </task>
+    <task id="LOCAL-00082" summary="3/15/13: removed  'block' see what happens">
+      <created>1363368833612</created>
+      <updated>1363368833612</updated>
+    </task>
+    <task id="LOCAL-00083" summary="3/15/13: removed  'block' #2 see what happens">
+      <created>1363368906484</created>
+      <updated>1363368906484</updated>
+    </task>
+    <task id="LOCAL-00084" summary="3/15/13: white.css change left h2 a little smaller, restored blockcontent class to info and sidecategory panels">
+      <created>1363369323774</created>
+      <updated>1363369323774</updated>
+    </task>
+    <task id="LOCAL-00085" summary="3/15/13: create and apply Panel class to sideboxes">
+      <created>1363371867671</created>
+      <updated>1363371867671</updated>
+    </task>
+    <task id="LOCAL-00086" summary="3/15/13: sidebox and header style changes; revised info, sidecategory panels, category template revisions">
+      <created>1363376332282</created>
+      <updated>1363376332282</updated>
+    </task>
+    <task id="LOCAL-00087" summary="3/15/13: sidebox and header style changes; revised info, sidecategory panels, category template revisions, comment out categorypagingtop">
+      <created>1363376485687</created>
+      <updated>1363376485687</updated>
+    </task>
+    <task id="LOCAL-00088" summary="3/15/13: removed category paging panels">
+      <created>1363377712302</created>
+      <updated>1363377712302</updated>
+    </task>
+    <task id="LOCAL-00089" summary="3/18/13: new page template for web pages">
+      <created>1363620672591</created>
+      <updated>1363620672591</updated>
+    </task>
+    <task id="LOCAL-00090" summary="3/18/13: comment out global page description script tag">
+      <created>1363622667408</created>
+      <updated>1363622667408</updated>
+    </task>
+    <task id="LOCAL-00091" summary="3/18/13: put back global page description script tag">
+      <created>1363622716448</created>
+      <updated>1363622716448</updated>
+    </task>
+    <task id="LOCAL-00092" summary="3/18/13: adjust h3 tag margin-bottom 10px">
+      <created>1363628200762</created>
+      <updated>1363628200762</updated>
+    </task>
+    <task id="LOCAL-00093" summary="3/18/13: adjust .content h3 tag margin-bottom 10px not other h3 tags">
+      <created>1363628299049</created>
+      <updated>1363628299049</updated>
+    </task>
+    <task id="LOCAL-00094" summary="3/18/13: add new links">
+      <created>1363629503102</created>
+      <updated>1363629503102</updated>
+    </task>
+    <task id="LOCAL-00095" summary="3/18/13: left side category link style revisions #1">
+      <created>1363631029653</created>
+      <updated>1363631029653</updated>
+    </task>
+    <task id="LOCAL-00096" summary="3/18/13: default to A-Z sort order">
+      <created>1363631605004</created>
+      <updated>1363631605004</updated>
+    </task>
+    <task id="LOCAL-00097" summary="3/18/13: nicer looking contact form">
+      <created>1363632657552</created>
+      <updated>1363632657553</updated>
+    </task>
+    <task id="LOCAL-00098" summary="3/18/13: nicer looking contact form">
+      <created>1363633237357</created>
+      <updated>1363633237357</updated>
+    </task>
+    <task id="LOCAL-00099" summary="3/18/13: nicer looking contact form #3">
+      <created>1363633280986</created>
+      <updated>1363633280986</updated>
+    </task>
+    <task id="LOCAL-00100" summary="3/18/13: revised product display paage #1">
+      <created>1363633428569</created>
+      <updated>1363633428570</updated>
+    </task>
+    <task id="LOCAL-00101" summary="3/18/13: revised product display paage #1">
+      <created>1363633469227</created>
+      <updated>1363633469227</updated>
+    </task>
+    <task id="LOCAL-00102" summary="3/18/13: forms label styling">
+      <created>1363633698336</created>
+      <updated>1363633698336</updated>
+    </task>
+    <task id="LOCAL-00103" summary="3/18/13: final contact form">
+      <created>1363634456466</created>
+      <updated>1363634456466</updated>
+    </task>
+    <task id="LOCAL-00104" summary="3/18/13: tiny image list styles for thumbnails">
+      <created>1363634829503</created>
+      <updated>1363634829503</updated>
+    </task>
+    <task id="LOCAL-00105" summary="3/18/13: tiny image list styles for thumbnails, try remove blue hover border">
+      <created>1363635352367</created>
+      <updated>1363635352367</updated>
+    </task>
+    <task id="LOCAL-00106" summary="3/18/13: remove hr element from product page">
+      <created>1363636654089</created>
+      <updated>1363636654089</updated>
+    </task>
+    <task id="LOCAL-00107" summary="3/18/13: add JS as inline script to modify image thumbs borders on hover">
+      <created>1363638072478</created>
+      <updated>1363638072478</updated>
+    </task>
+    <task id="LOCAL-00108" summary="3/18/13: footer background">
+      <created>1363638430204</created>
+      <updated>1363638430204</updated>
+    </task>
+    <task id="LOCAL-00109" summary="3/18/13: styles added webfont declarations and body/Hx styles to styles.css with !important; mostly final footer changes">
+      <created>1363640565026</created>
+      <updated>1363640565026</updated>
+    </task>
+    <task id="LOCAL-00110" summary="3/18/13: cart.html first page of checkout process">
+      <created>1363643181195</created>
+      <updated>1363643181195</updated>
+    </task>
+    <task id="LOCAL-00111" summary="3/18/13: adjust cart styles, layout, two panels appearing in cart">
+      <created>1363644164723</created>
+      <updated>1363644164723</updated>
+    </task>
+    <task id="LOCAL-00112" summary="3/18/13: revised final login form, coupon, gift cert panels, styles for login form and cart template, create account template">
+      <created>1363646905649</created>
+      <updated>1363646905649</updated>
+    </task>
+    <task id="LOCAL-00113" summary="3/18/13: html head try removing http from google webfonts call, fix create account form and white.css">
+      <created>1363648403987</created>
+      <updated>1363648403987</updated>
+    </task>
+    <task id="LOCAL-00114" summary="3/18/13: remove hr separators from various files, will go back and use CSS to make white space as separator">
+      <created>1363651032312</created>
+      <updated>1363651032312</updated>
+    </task>
+    <task id="LOCAL-00115" summary="3/19/13: header temporarly comment out top bar">
+      <created>1363700139557</created>
+      <updated>1363700139557</updated>
+    </task>
+    <task id="LOCAL-00116" summary="3/19/13: margin-bottom gift cert code stuff">
+      <created>1363702769926</created>
+      <updated>1363702769926</updated>
+    </task>
+    <task id="LOCAL-00117" summary="3/19/13: margin-bottom on all cart page sections, note about continue shopping">
+      <created>1363703069924</created>
+      <updated>1363703069924</updated>
+    </task>
+    <task id="LOCAL-00118" summary="3/19/13: additional styles for checkout forms and email divs">
+      <created>1363707420273</created>
+      <updated>1363707420273</updated>
+    </task>
+    <task id="LOCAL-00119" summary="3/19/13 commit">
+      <created>1363712660348</created>
+      <updated>1363712660348</updated>
+    </task>
+    <task id="LOCAL-00120" summary="3/19/13 commit">
+      <created>1363718353859</created>
+      <updated>1363718353859</updated>
+    </task>
+    <task id="LOCAL-00121" summary="3/19/13 temporarirly UN-commented top menu bar">
+      <created>1363719165615</created>
+      <updated>1363719165615</updated>
+    </task>
+    <task id="LOCAL-00122" summary="3/19/13 white: increase width of dt style, form add function to swap in new recaptchatable-noborder class">
+      <created>1363719457191</created>
+      <updated>1363719457191</updated>
+    </task>
+    <task id="LOCAL-00123" summary="3/19/13 add function to swap in new recaptchatable-noborder class, conifgured as transparent rather than none">
+      <created>1363719558649</created>
+      <updated>1363719558649</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="77" y="0" width="1527" height="1050" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25027934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3206704" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991672" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31843576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24371158" sideWeight="0.21297297" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30020422" sideWeight="0.67932963" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/19/13 add function to swap in new recaptchatable-noborder class, conifgured as transparent rather than none" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="3/18/13: default to A-Z sort order" />
+    <MESSAGE value="3/18/13: nicer looking contact form" />
+    <MESSAGE value="3/18/13: nicer looking contact form #3" />
+    <MESSAGE value="3/18/13: revised product display paage #1" />
+    <MESSAGE value="3/18/13: forms label styling" />
+    <MESSAGE value="3/18/13: final contact form" />
+    <MESSAGE value="3/18/13: tiny image list styles for thumbnails" />
+    <MESSAGE value="3/18/13: tiny image list styles for thumbnails, try remove blue hover border" />
+    <MESSAGE value="3/18/13: remove hr element from product page" />
+    <MESSAGE value="3/18/13: add JS as inline script to modify image thumbs borders on hover" />
+    <MESSAGE value="3/18/13: footer background" />
+    <MESSAGE value="3/18/13: styles added webfont declarations and body/Hx styles to styles.css with !important; mostly final footer changes" />
+    <MESSAGE value="3/18/13: cart.html first page of checkout process" />
+    <MESSAGE value="3/18/13: adjust cart styles, layout, two panels appearing in cart" />
+    <MESSAGE value="3/18/13: revised final login form, coupon, gift cert panels, styles for login form and cart template, create account template" />
+    <MESSAGE value="3/18/13: html head try removing http from google webfonts call, fix create account form and white.css" />
+    <MESSAGE value="3/18/13: remove hr separators from various files, will go back and use CSS to make white space as separator" />
+    <MESSAGE value="3/19/13: header temporarly comment out top bar" />
+    <MESSAGE value="3/19/13: margin-bottom gift cert code stuff" />
+    <MESSAGE value="3/19/13: margin-bottom on all cart page sections, note about continue shopping" />
+    <MESSAGE value="3/19/13: additional styles for checkout forms and email divs" />
+    <MESSAGE value="3/19/13 commit" />
+    <MESSAGE value="3/19/13 temporarirly UN-commented top menu bar" />
+    <MESSAGE value="3/19/13 white: increase width of dt style, form add function to swap in new recaptchatable-noborder class" />
+    <MESSAGE value="3/19/13 add function to swap in new recaptchatable-noborder class, conifgured as transparent rather than none" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Panels/CartContent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="121" selection-start="5907" selection-end="5907" vertical-scroll-proportion="0.5586854">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panels/AccountOrder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panels/AccountOrders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account_orders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account_inbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panels/Header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="25" selection-start="170" selection-end="170" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panels/ContactFormJavaScript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Styles/white.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="679" column="74" selection-start="15416" selection-end="15416" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout_express.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="47" selection-start="6683" selection-end="6683" vertical-scroll-proportion="-0.74151856">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Styles/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="1" selection-start="3340" selection-end="3386" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panels/LoginForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="27" selection-start="1392" selection-end="1392" vertical-scroll-proportion="-19.615385">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panels/CreateAccountForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="33" selection-start="675" selection-end="675" vertical-scroll-proportion="-1.7307693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Snippets/ExpressCheckoutCreateAccount.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="69" selection-start="190" selection-end="190" vertical-scroll-proportion="-1.9615384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panels/EditAccountForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="37" selection-start="821" selection-end="821" vertical-scroll-proportion="0.6666667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
