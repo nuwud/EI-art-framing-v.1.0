@@ -45,8 +45,6 @@ h3 {
 	/*font-family: "Times New Roman", Times, serif;*/
 	/*font-weight: normal;*/
 }
-
-
 #Container {
 }
 
@@ -686,4 +684,17 @@ border: 1px solid #dfdfdf!important;
 */
 .GiftCertificateCode, .CouponCode, .KeepShopping {
     margin-bottom: 25px;
+}
+.ExpressCheckoutBlock .ExpressCheckoutTitle {
+    background: #003300;
+    color: #eee8aa;
+    border: none;
+    padding-left: 0px;
+    margin-left: 0px;
+    font-size: 1.6em;
+}
+/* 3/19/13 class for dt elements in stupid email forms in divs */
+.emailform {
+    width: 120px;
+    margin-top: 5px;
 }
