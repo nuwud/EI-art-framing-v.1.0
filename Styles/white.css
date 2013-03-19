@@ -677,7 +677,7 @@ table.CartContents thead tr th, table.General thead tr th {
     border-right: none;
 }
 table.recaptchatable-noborder {
-    border: none;
+    border: 1px solid transparent; /* 3/19/13 transparent is preferred to none */
 }
 /*
 3/18/13 want jQ to change this: border: 1px solid #dfdfdf!important; to border: none;
