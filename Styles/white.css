@@ -45,6 +45,10 @@ h3 {
 	/*font-family: "Times New Roman", Times, serif;*/
 	/*font-weight: normal;*/
 }
+h4 {
+    font-size: 1.3em;
+    margin-bottom: 4px;
+}
 #Container {
 }
 
@@ -672,8 +676,8 @@ table.CartContents thead tr th, table.General thead tr th {
 .CreateAccount {
     border-right: none;
 }
-table.recaptchatable {
-    border: none; !important
+table.recaptchatable-noborder {
+    border: none;
 }
 /*
 3/18/13 want jQ to change this: border: 1px solid #dfdfdf!important; to border: none;
