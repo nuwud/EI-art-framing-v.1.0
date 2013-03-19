@@ -693,8 +693,8 @@ border: 1px solid #dfdfdf!important;
     margin-left: 0px;
     font-size: 1.6em;
 }
-/* 3/19/13 class for dt elements in stupid email forms in divs */
-.emailform {
+/* 3/19/13 style for dt elements in stupid email forms in divs, partially override same css in styles.css */
+.HorizontalFormContainer dt {
     width: 120px;
     margin-top: 5px;
 }
