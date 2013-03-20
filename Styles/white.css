@@ -703,6 +703,9 @@ border: 1px solid #dfdfdf!important;
     width: 130px;
     margin-top: 5px;
 }
+.HorizontalFormContainer dd {
+    width: 130px;
+}
 .Content a.FloatRight {
     padding-top: 7px;
 }
