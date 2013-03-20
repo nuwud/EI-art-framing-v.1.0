@@ -700,7 +700,7 @@ border: 1px solid #dfdfdf!important;
 }
 /* 3/19/13 style for dt elements in stupid email forms in divs, partially override same css in styles.css */
 .HorizontalFormContainer dt {
-    width: 130px;
+    width: 135px;
     margin-top: 5px;
 }
 .Content a.FloatRight {
