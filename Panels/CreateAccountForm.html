@@ -50,6 +50,9 @@
 	</div>
 </div>
 <script>
+    $(function() {
+        $('span.FormFieldLabel').insertBefore( 'span.Required.FormFieldRequired' );
+    });
     $(function(){
         $('.recaptchatable').toggleClass('recaptchatable recaptchatable-noborder')
     })
