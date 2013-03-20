@@ -707,8 +707,18 @@ border: 1px solid #dfdfdf!important;
 #TopCheckoutButton {
     display: none;
 }
-#ProductDetails .ProductThumbImage {
-    text-align: center;
-    margin: 0px;
+/*
+.centered {
+    margin: 0 auto; !important
+    text-align: center; !important
     padding: 0px;
+    border: 1px solid white;
+    width: 100%;
+}
+*/
+.PrimaryProductDetails .ProductThumb {
+    float: left;
+    width: 250px;
+    text-align: center; !important
+    margin: 0 auto;
 }
