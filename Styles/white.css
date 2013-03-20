@@ -667,9 +667,6 @@ table.CartContents thead tr th, table.General thead tr th {
 .SortBox { /* 3/18/13 hide the product sorting box, defaulted in CategorySortBox snippet to A-Z order */
     display: none;
 }
-.HorizontalFormContainer dt {
-    font-weight: bold;
-}
 #ProductDetails .ProductTinyImageList ul li {
     background: white;
 }
@@ -698,14 +695,20 @@ border: 1px solid #dfdfdf!important;
     margin-left: 0px;
     font-size: 1.6em;
 }
-/* 3/19/13 style for dt elements in stupid email forms in divs, partially override same css in styles.css */
+/* 3/19/13 style for dt elements in form divs, partially override same css in styles.css */
 .HorizontalFormContainer dt {
-    width: 130px;
+    font-weight: bold;
+    width: 160px;
     margin-top: 5px;
-}
-.HorizontalFormContainer dd {
-    width: 130px;
 }
 .Content a.FloatRight {
     padding-top: 7px;
+}
+#TopCheckoutButton {
+    display: none;
+}
+#ProductDetails .ProductThumbImage {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
 }
