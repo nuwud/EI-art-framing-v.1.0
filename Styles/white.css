@@ -703,3 +703,6 @@ border: 1px solid #dfdfdf!important;
     width: 130px;
     margin-top: 5px;
 }
+a.FloatRight {
+    padding-top: 2px;
+}
