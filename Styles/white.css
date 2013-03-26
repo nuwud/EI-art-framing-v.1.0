@@ -716,6 +716,7 @@ border: 1px solid #dfdfdf!important;
     width: 100%;
 }
 */
+/* 3/26/13 below productthumb code does not work */
 .PrimaryProductDetails .ProductThumb {
     float: left;
     width: 250px;
@@ -726,5 +727,5 @@ border: 1px solid #dfdfdf!important;
     margin-left: 160px;
 }
 #LoginButton {
-    padding-bottom: 10px;
+    margin-bottom: 5px;
 }
