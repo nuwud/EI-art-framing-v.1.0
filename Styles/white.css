@@ -722,6 +722,6 @@ border: 1px solid #dfdfdf!important;
     text-align: center; !important
     margin: 0 auto;
 }
-.HorizontalFormContainer p.submit {
-    padding-left: 160px;
+.NarrowFormContainer p.Submit {
+    margin-left: 160px;
 }
