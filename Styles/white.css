@@ -729,6 +729,9 @@ border: 1px solid #dfdfdf!important;
 #LoginButton {
     margin-bottom: 5px;
 }
-#ChangeLink {
+.ChangeLink {
     margin-top: 5px;
+}
+.ExpressCheckoutBlock .ExpressCheckoutCompletedContent {
+    display: none;
 }
