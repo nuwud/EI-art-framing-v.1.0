@@ -740,5 +740,8 @@ border: 1px solid #dfdfdf!important;
     border: none;
 }
 .NotifyMessage {
-    padding: 0px;
+    padding: 0px 0px 10px 0px;
+}
+ul.tabs.li {
+    padding: 6px 8px 6px 8px;
 }
