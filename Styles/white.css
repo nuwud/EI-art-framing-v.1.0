@@ -742,6 +742,7 @@ border: 1px solid #dfdfdf!important;
 .NotifyMessage {
     padding: 0px 0px 10px 0px;
 }
-ul.tabs.li {
+ul.tabs li {
     padding: 6px 8px 6px 8px;
+    background: white;
 }
