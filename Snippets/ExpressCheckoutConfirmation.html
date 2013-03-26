@@ -26,11 +26,13 @@
 		</tbody>
 	</table>
 	<div class="FloatRight CheckoutRedeemCoupon" style="display: %%GLOBAL_HideUseCoupon%%">
-		<h4>%%GLOBAL_RedeemTitle%%</h4>
-		<p>%%GLOBAL_RedeemIntro%%</p>
+		<!--<h4>%%GLOBAL_RedeemTitle%%</h4>-->
+        <h3>Redeem Gift Certificate or Coupon</h3>
+		<!--<p>%%GLOBAL_RedeemIntro%%</p>-->
+        <p>To apply a gift certificate or coupon code to this order, please enter the code below, then click 'Apply.'</p>
 		<p>
 			<strong>%%LNG_CouponCode1%%:</strong>
-			<input type="text" name="couponcode" id="couponcode" style="width: 140px;" />
+			<input type="text" name="couponcode" id="couponcode" />
 			<input type="button" name="apply_code" id="apply_code" value="%%LNG_Apply%%" onclick="return ExpressCheckout.ApplyCouponCode();" />
 		</p>
 	</div>
@@ -84,7 +86,6 @@
 	</div>
 
 	<div style="display: %%GLOBAL_HideOrderComments%%" class="CheckoutOrderComments">
-		<hr class="Clear" />
 		<h3>%%LNG_EnterOrderComments%%</h3>
 		<div class="PL20">
 			<textarea name="ordercomments" cols="40" rows="6" class="Field400">%%GLOBAL_OrderComments%%</textarea>
@@ -92,7 +93,6 @@
 	</div>
 
 	<div style="%%GLOBAL_HideOrderTermsAndConditions%%" class="CheckoutHideOrderTermsAndConditions">
-		<hr class="Clear" />
 		<h3>%%LNG_TermsAndConditions%%</h3>
 		<div class="PL20" style="%%GLOBAL_HideTermsAndConditionsTextarea%%">
 			<textarea readonly="readonly" cols="60" rows="6" class="Field400">%%GLOBAL_OrderTermsAndConditions%%</textarea>
@@ -104,7 +104,6 @@
 	</div>
 
 	<div style="display: %%GLOBAL_HideMailingListInvite%%">
-		<hr class="Clear" />
 		<h3>%%LNG_HearFromUsViaEmail%%</h3>
 
 		<p class="PL20" style="display: %%GLOBAL_HideMailingListInvite%%">
@@ -112,7 +111,6 @@
 
 			<span style="display:%%GLOBAL_HideOrderCheckBox%%"><input type="checkbox" class="CheckboxTogglesOtherElements" name="join_order_list" id="join_order_list" %%GLOBAL_OrderBoxIsTicked%% /> <label for="join_order_list">%%LNG_NewsletterSpecialOffersText%%</label><br /></span>
 		</p>
-		<hr />
 	</div>
 
 	<p class="PL20">
