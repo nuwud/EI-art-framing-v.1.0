@@ -735,3 +735,7 @@ border: 1px solid #dfdfdf!important;
 .ExpressCheckoutBlock .ExpressCheckoutCompletedContent {
     display: none;
 }
+.CheckoutRedeemCoupon {
+    background: #003300;
+    border: none;
+}
