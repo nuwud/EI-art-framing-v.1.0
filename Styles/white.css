@@ -748,8 +748,8 @@ ul.tabs li {
 }
 /* 3/27/13 homepage slideshow jQ Cycle css */
 .slideshow {
-    height:  255px;
-    width:   335px;
+    height:  240px;
+    width:   320px;
     padding: 0;
     margin:  0;
     float: right;
