@@ -762,3 +762,6 @@ ul.tabs li {
     top:  0;
     left: 0;
 }
+.OrderItemList {
+    list-style-type: none;
+}
