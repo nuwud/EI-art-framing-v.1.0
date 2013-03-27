@@ -750,13 +750,13 @@ ul.tabs li {
 .slideshow {
     height:  240px;
     width:   320px;
-    padding-right: 15px;
+    padding-right: 17px;
     margin:  0;
     float: left;
 }
 
 .slideshow img {
-    padding: 0px 0px 15px 0px;
+    padding: 0px 0px 13px 0px;
     width:  320px;
     height: 240px;
     top:  0;
