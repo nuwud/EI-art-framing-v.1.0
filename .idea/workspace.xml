@@ -1,45 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caa6e6f7-c1a5-43a6-9c00-08330d029b71" name="Default" comment="dt style adjust">
+    <list default="true" id="caa6e6f7-c1a5-43a6-9c00-08330d029b71" name="Default" comment="styles make order tabs look good, order page sideboxes configure">
+      <change type="DELETED" beforePath="D:\BOX\My Box Files\Github\EI-art-framing-v.1.0\Panels\Information.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_category.html" afterPath="$PROJECT_DIR$/_category.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_page.html" afterPath="$PROJECT_DIR$/_page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/account.html" afterPath="$PROJECT_DIR$/account.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/account_addressbook.html" afterPath="$PROJECT_DIR$/account_addressbook.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/account_inbox.html" afterPath="$PROJECT_DIR$/account_inbox.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/account_order.html" afterPath="$PROJECT_DIR$/account_order.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/account_orders.html" afterPath="$PROJECT_DIR$/account_orders.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/account_orderstatus.html" afterPath="$PROJECT_DIR$/account_orderstatus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cart.html" afterPath="$PROJECT_DIR$/cart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/createaccount.html" afterPath="$PROJECT_DIR$/createaccount.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/default.html" afterPath="$PROJECT_DIR$/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.html" afterPath="$PROJECT_DIR$/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/message.html" afterPath="$PROJECT_DIR$/message.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order.html" afterPath="$PROJECT_DIR$/order.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product.html" afterPath="$PROJECT_DIR$/product.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EI-art-framing-v.1.0.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363966430946" ignored="false" />
-    <file path="/white.css" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363814539354" ignored="false" />
+    <file path="/Dummy.txt" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364415858013" ignored="false" />
+    <file path="/white.css" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364415020175" ignored="false" />
     <file path="/HTMLHead.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363117750447" ignored="false" />
-    <file path="/default.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363116566180" ignored="false" />
+    <file path="/default.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364405418642" ignored="false" />
     <file path="/a.dummy" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363724028114" ignored="false" />
     <file path="/TopMenu.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363036477964" ignored="false" />
     <file path="/.htaccess" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363039341292" ignored="false" />
     <file path="/Header.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363795743307" ignored="false" />
-    <file path="/Information.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363795050370" ignored="false" />
+    <file path="/Information.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364409147761" ignored="false" />
     <file path="/SideCategoryList.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363371998034" ignored="false" />
     <file path="/_category.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363631952968" ignored="false" />
     <file path="/_page.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363620624238" ignored="false" />
     <file path="/page_contact_form.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363634439813" ignored="false" />
     <file path="/product.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363811810909" ignored="false" />
     <file path="/Footer.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363638588820" ignored="false" />
-    <file path="/styles.css" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363640453455" ignored="false" />
+    <file path="/styles.css" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364327414842" ignored="false" />
     <file path="/cart.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363643237318" ignored="false" />
-    <file path="/LoginForm.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363793947973" ignored="false" />
+    <file path="/LoginForm.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364319612172" ignored="false" />
     <file path="/login.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363646438223" ignored="false" />
     <file path="/createaccount.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363646810784" ignored="false" />
     <file path="/CreateAccountForm.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363721155533" ignored="false" />
     <file path="/CartContent.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363723881293" ignored="false" />
-    <file path="/checkout_express.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363707325300" ignored="false" />
+    <file path="/checkout_express.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364322956528" ignored="false" />
     <file path="/ExpressCheckoutCreateAccount.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363721319044" ignored="false" />
     <file path="/EditAccountForm.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363723596828" ignored="false" />
     <file path="/ForgotPasswordForm.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363723656772" ignored="false" />
     <file path="/GetNewPasswordForm.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363723700061" ignored="false" />
     <file path="/PurchaseGiftCertificate.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363723783832" ignored="false" />
-    <file path="/*.regexp" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363724614326" ignored="false" />
+    <file path="/*.regexp" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364416177586" ignored="false" />
     <file path="/CheckoutBillingAddressFields.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363724338770" ignored="false" />
     <file path="/CartHeader.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363798503573" ignored="false" />
     <file path="/ProductDetails.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363813818344" ignored="false" />
     <file path="/ProductThumbImage.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1363814034035" ignored="false" />
+    <file path="/ExpressCheckoutConfirmation.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364324145486" ignored="false" />
+    <file path="/OfflinePaymentMessage.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364326532778" ignored="false" />
+    <file path="/order.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364328603606" ignored="false" />
+    <file path="/account.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364413773558" ignored="false" />
+    <file path="/message.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364414077147" ignored="false" />
+    <file path="/account_inbox.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364414249529" ignored="false" />
+    <file path="/AccountOrderStatusItem.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364414809923" ignored="false" />
+    <file path="/account_order.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364415152459" ignored="false" />
+    <file path="/account_orderstatus.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364415443146" ignored="false" />
+    <file path="/account_orders.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364415708864" ignored="false" />
+    <file path="/account_addressbook.html" changelist="caa6e6f7-c1a5-43a6-9c00-08330d029b71" time="1364415829425" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,46 +85,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="white.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Styles/white.css">
+      <file leaf-file-name="AccountOrderStatus.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Panels/AccountOrderStatus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="692" column="17" selection-start="15842" selection-end="15842" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Styles/styles.css">
+      <file leaf-file-name="account_orders.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account_orders.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="816" column="8" selection-start="14221" selection-end="14221" vertical-scroll-proportion="0.0">
+            <state line="9" column="33" selection-start="325" selection-end="350" vertical-scroll-proportion="-5.8846154">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/product.html">
+      <file leaf-file-name="_category.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_category.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="39" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.1635514">
+            <state line="9" column="12" selection-start="334" selection-end="334" vertical-scroll-proportion="-5.8846154">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductDetails.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Panels/ProductDetails.html">
+      <file leaf-file-name="_page.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="32" selection-start="1779" selection-end="1779" vertical-scroll-proportion="-0.65384614">
+            <state line="10" column="12" selection-start="359" selection-end="359" vertical-scroll-proportion="0.19473082">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductThumbImage.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Snippets/ProductThumbImage.html">
+      <file leaf-file-name="ChooseShippingAddress.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Panels/ChooseShippingAddress.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="3.0">
               <folding />
             </state>
           </provider>
@@ -123,22 +149,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Panels/ForgotPasswordForm.html" />
-        <option value="$PROJECT_DIR$/Panels/GetNewPasswordForm.html" />
-        <option value="$PROJECT_DIR$/Panels/PurchaseGiftCertificate.html" />
-        <option value="$PROJECT_DIR$/Panels/CartContent.html" />
-        <option value="$PROJECT_DIR$/Snippets/CheckoutBillingAddressFields.html" />
+        <option value="$PROJECT_DIR$/Snippets/SocialSharingTabsItem.html" />
+        <option value="$PROJECT_DIR$/order.html" />
+        <option value="$PROJECT_DIR$/default.html" />
         <option value="$PROJECT_DIR$/Panels/Information.html" />
-        <option value="$PROJECT_DIR$/Panels/TopMenu.html" />
-        <option value="$PROJECT_DIR$/Panels/Header.html" />
-        <option value="$PROJECT_DIR$/Panels/CreateAccountForm.html" />
-        <option value="$PROJECT_DIR$/Panels/LoginForm.html" />
-        <option value="$PROJECT_DIR$/Panels/CartHeader.html" />
-        <option value="$PROJECT_DIR$/Styles/styles.css" />
-        <option value="$PROJECT_DIR$/Snippets/ProductThumbImage.html" />
-        <option value="$PROJECT_DIR$/Panels/ProductDetails.html" />
+        <option value="$PROJECT_DIR$/account.html" />
+        <option value="$PROJECT_DIR$/message.html" />
+        <option value="$PROJECT_DIR$/account_inbox.html" />
+        <option value="$PROJECT_DIR$/Snippets/AccountOrderStatusItem.html" />
         <option value="$PROJECT_DIR$/Styles/white.css" />
-        <option value="$PROJECT_DIR$/product.html" />
+        <option value="$PROJECT_DIR$/account_order.html" />
+        <option value="$PROJECT_DIR$/account_orderstatus.html" />
+        <option value="$PROJECT_DIR$/account_orders.html" />
+        <option value="$PROJECT_DIR$/account_returns.html" />
+        <option value="$PROJECT_DIR$/account_addressbook.html" />
+        <option value="$PROJECT_DIR$/_category.html" />
+        <option value="$PROJECT_DIR$/_page.html" />
       </list>
     </option>
   </component>
@@ -202,7 +228,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Styles" />
+              <option name="myItemId" value="Snippets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EI-art-framing-v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EI-art-framing-v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Panels" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -215,13 +255,13 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="271" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="271" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$USER_HOME$/2013 CRHEI Website Redesign/stylesheets_ZC_bootstrap/stylesheet_bootstrap.min.css" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="271" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="946" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="945" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="946" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="271" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="270" />
@@ -241,8 +281,15 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="Essex Industries BC FTP" serverId="fcdee599-6d35-4c37-b684-0daed84a6d82" uploadOnCheckin="fcdee599-6d35-4c37-b684-0daed84a6d82" notifyRemoteChanges="true">
+  <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="EI BC Sandbox" serverId="fcdee599-6d35-4c37-b684-0daed84a6d82" uploadOnCheckin="fcdee599-6d35-4c37-b684-0daed84a6d82" notifyRemoteChanges="true">
     <servers>
+      <server id="81554a8d-5925-4e15-9b20-cdf8158fa470">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
       <server id="fcdee599-6d35-4c37-b684-0daed84a6d82">
         <serverdata>
           <mappings>
@@ -251,7 +298,7 @@
         </serverdata>
       </server>
     </servers>
-    <option name="myUploadOnCheckinName" value="Essex Industries BC FTP" />
+    <option name="myUploadOnCheckinName" value="EI BC Sandbox" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -867,7 +914,147 @@
       <created>1363814615005</created>
       <updated>1363814615005</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="enable ugly product breadcrumb">
+      <created>1363966565008</created>
+      <updated>1363966565009</updated>
+    </task>
+    <task id="LOCAL-00143" summary="again uncomment top menu">
+      <created>1363975880670</created>
+      <updated>1363975880670</updated>
+    </task>
+    <task id="LOCAL-00144" summary="changed alternate styles to georgia, verdana in both css files">
+      <created>1364306383616</created>
+      <updated>1364306383616</updated>
+    </task>
+    <task id="LOCAL-00145" summary="p.submit paragraph moves 40px right">
+      <created>1364317695715</created>
+      <updated>1364317695715</updated>
+    </task>
+    <task id="LOCAL-00146" summary="fix p.submit class in forms to work correctly">
+      <created>1364318244838</created>
+      <updated>1364318244838</updated>
+    </task>
+    <task id="LOCAL-00147" summary="remove paddling-left from submit button, final submit button class styling">
+      <created>1364318535227</created>
+      <updated>1364318535227</updated>
+    </task>
+    <task id="LOCAL-00148" summary="changed sign in header part">
+      <created>1364319493606</created>
+      <updated>1364319493606</updated>
+    </task>
+    <task id="LOCAL-00149" summary="some padding below #LoginButton">
+      <created>1364319925536</created>
+      <updated>1364319925536</updated>
+    </task>
+    <task id="LOCAL-00150" summary="change customer language on express checkout">
+      <created>1364320941239</created>
+      <updated>1364320941239</updated>
+    </task>
+    <task id="LOCAL-00151" summary="modify 'modify' link">
+      <created>1364321564289</created>
+      <updated>1364321564289</updated>
+    </task>
+    <task id="LOCAL-00152" summary="change all modify &gt;&gt; to EDIT with downward triangle">
+      <created>1364323056926</created>
+      <updated>1364323056926</updated>
+    </task>
+    <task id="LOCAL-00153" summary="fix redeem coupon on checkout page">
+      <created>1364323577524</created>
+      <updated>1364323577524</updated>
+    </task>
+    <task id="LOCAL-00154" summary="change 'how would u like 2 pay to 'Payment Method">
+      <created>1364323898648</created>
+      <updated>1364323898648</updated>
+    </task>
+    <task id="LOCAL-00155" summary="change background on notifymessage class">
+      <created>1364326142004</created>
+      <updated>1364326142005</updated>
+    </task>
+    <task id="LOCAL-00156" summary="tell people how to pay with check">
+      <created>1364326353061</created>
+      <updated>1364326353061</updated>
+    </task>
+    <task id="LOCAL-00157" summary="new presentation sharing tabs">
+      <created>1364327776063</created>
+      <updated>1364327776063</updated>
+    </task>
+    <task id="LOCAL-00158" summary="styles make order tabs look good, order page sideboxes configure">
+      <created>1364328653904</created>
+      <updated>1364328653904</updated>
+    </task>
+    <task id="LOCAL-00159" summary="simplified default page, added info panel to order page">
+      <created>1364393304003</created>
+      <updated>1364393304003</updated>
+    </task>
+    <task id="LOCAL-00160" summary="add original EI homepage copy">
+      <created>1364393534876</created>
+      <updated>1364393534876</updated>
+    </task>
+    <task id="LOCAL-00161" summary="fix contact us link">
+      <created>1364393970338</created>
+      <updated>1364393970338</updated>
+    </task>
+    <task id="LOCAL-00162" summary="removed stuff copied in from top menu">
+      <created>1364394099577</created>
+      <updated>1364394099577</updated>
+    </task>
+    <task id="LOCAL-00163" summary="add test image, remove top menu items from info panel">
+      <created>1364396763977</created>
+      <updated>1364396763977</updated>
+    </task>
+    <task id="LOCAL-00164" summary="slideshow styles and initial javascript placement">
+      <created>1364403677505</created>
+      <updated>1364403677505</updated>
+    </task>
+    <task id="LOCAL-00165" summary="refine slideshow style, clear right float">
+      <created>1364403893247</created>
+      <updated>1364403893247</updated>
+    </task>
+    <task id="LOCAL-00166" summary="change to float left, configure all images">
+      <created>1364404704256</created>
+      <updated>1364404704256</updated>
+    </task>
+    <task id="LOCAL-00167" summary="added link for canoe 101 page">
+      <created>1364409188422</created>
+      <updated>1364409188422</updated>
+    </task>
+    <task id="LOCAL-00168" summary="revised my account page, removed rss from info panel, added canoe 101 link">
+      <created>1364413608240</created>
+      <updated>1364413608240</updated>
+    </task>
+    <task id="LOCAL-00169" summary="revise some account page text, revise messages page">
+      <created>1364414066227</created>
+      <updated>1364414066227</updated>
+    </task>
+    <task id="LOCAL-00170" summary="fix inbox page">
+      <created>1364414272796</created>
+      <updated>1364414272796</updated>
+    </task>
+    <task id="LOCAL-00171" summary="arrange text nicer">
+      <created>1364414777811</created>
+      <updated>1364414777812</updated>
+    </task>
+    <task id="LOCAL-00172" summary="revise template appearance">
+      <created>1364415209207</created>
+      <updated>1364415209207</updated>
+    </task>
+    <task id="LOCAL-00173" summary="revise order status template">
+      <created>1364415489778</created>
+      <updated>1364415489778</updated>
+    </task>
+    <task id="LOCAL-00174" summary="revise account view orders page">
+      <created>1364415691683</created>
+      <updated>1364415691683</updated>
+    </task>
+    <task id="LOCAL-00175" summary="revise return requests page">
+      <created>1364415779304</created>
+      <updated>1364415779304</updated>
+    </task>
+    <task id="LOCAL-00176" summary="revised address book template page">
+      <created>1364415860383</created>
+      <updated>1364415860383</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -891,25 +1078,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="0" width="1847" height="1080" extended-state="0" />
+    <frame x="73" y="0" width="1847" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972972" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25405404" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28864864" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991672" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31783783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24371158" sideWeight="0.21297297" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991672" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25209615" sideWeight="0.75027025" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25041923" sideWeight="0.71135134" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31783783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -957,7 +1144,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove script" />
+    <option name="LAST_COMMIT_MESSAGE" value="revised address book template page" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -971,122 +1158,144 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="3/18/13: html head try removing http from google webfonts call, fix create account form and white.css" />
-    <MESSAGE value="3/18/13: remove hr separators from various files, will go back and use CSS to make white space as separator" />
-    <MESSAGE value="3/19/13: header temporarly comment out top bar" />
-    <MESSAGE value="3/19/13: margin-bottom gift cert code stuff" />
-    <MESSAGE value="3/19/13: margin-bottom on all cart page sections, note about continue shopping" />
-    <MESSAGE value="3/19/13: additional styles for checkout forms and email divs" />
-    <MESSAGE value="3/19/13 commit" />
-    <MESSAGE value="3/19/13 temporarirly UN-commented top menu bar" />
-    <MESSAGE value="3/19/13 white: increase width of dt style, form add function to swap in new recaptchatable-noborder class" />
-    <MESSAGE value="3/19/13 add function to swap in new recaptchatable-noborder class, conifgured as transparent rather than none" />
-    <MESSAGE value="3/19/13 styles add width to recaptchatable-noborder, panels fix red asterisk" />
-    <MESSAGE value="3/20/13: try move red asterisk on create account form" />
-    <MESSAGE value="3/20/13: commented out code to move red asterisk on create account form, does not work" />
-    <MESSAGE value="3/20/13: move submit button and forgot password rightward" />
-    <MESSAGE value="3/20/13: information now contains top menu items, login form moves submit button 10px right" />
-    <MESSAGE value="3/20/13: again comment out top menu, must fix search pages etc." />
-    <MESSAGE value="3/20/13: again UN-comment out top menu" />
-    <MESSAGE value="3/20/13: again comment out top menu" />
-    <MESSAGE value="3/20/13: move product review gif and other right-floated things down 2px" />
-    <MESSAGE value="3/20/13: move product review gif and other right-floated things down 7px, fixed code to move asterisks on create account page" />
-    <MESSAGE value="dt style adjust" />
-    <MESSAGE value="login form move submit button rightward more, cart header not show top checkout button" />
-    <MESSAGE value="center product image, comment out top menu" />
-    <MESSAGE value="unsuccessful attempts to get product image centered within its div on product page" />
-    <MESSAGE value="remove script" />
+    <MESSAGE value="change all modify &gt;&gt; to EDIT with downward triangle" />
+    <MESSAGE value="fix redeem coupon on checkout page" />
+    <MESSAGE value="change 'how would u like 2 pay to 'Payment Method" />
+    <MESSAGE value="change background on notifymessage class" />
+    <MESSAGE value="tell people how to pay with check" />
+    <MESSAGE value="new presentation sharing tabs" />
+    <MESSAGE value="styles make order tabs look good, order page sideboxes configure" />
+    <MESSAGE value="simplified default page, added info panel to order page" />
+    <MESSAGE value="add original EI homepage copy" />
+    <MESSAGE value="fix contact us link" />
+    <MESSAGE value="removed stuff copied in from top menu" />
+    <MESSAGE value="add test image, remove top menu items from info panel" />
+    <MESSAGE value="slideshow styles and initial javascript placement" />
+    <MESSAGE value="refine slideshow style, clear right float" />
+    <MESSAGE value="change to float left, configure all images" />
+    <MESSAGE value="added link for canoe 101 page" />
+    <MESSAGE value="revised my account page, removed rss from info panel, added canoe 101 link" />
+    <MESSAGE value="revise some account page text, revise messages page" />
+    <MESSAGE value="fix inbox page" />
+    <MESSAGE value="arrange text nicer" />
+    <MESSAGE value="revise template appearance" />
+    <MESSAGE value="revise order status template" />
+    <MESSAGE value="revise account view orders page" />
+    <MESSAGE value="revise return requests page" />
+    <MESSAGE value="revised address book template page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Snippets/ProductReviewItem.html">
+    <entry file="file://$PROJECT_DIR$/Snippets/AccountInboxMessage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Snippets/ProductReviewList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Panels/ProductReviews.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Panels/Header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="86" selection-start="231" selection-end="231" vertical-scroll-proportion="0.07943925" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Snippets/TopMenuGiftCertificates.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Panels/Information.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="461" selection-end="542" vertical-scroll-proportion="0.23831776" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Panels/CartHeader.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="93" selection-start="219" selection-end="219" vertical-scroll-proportion="-1.6666666" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Panels/LoginForm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="1899" selection-end="1899" vertical-scroll-proportion="0.47663552" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Panels/CreateAccountForm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="4" selection-start="2292" selection-end="2294" vertical-scroll-proportion="-23.26923" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Panels/CartContent.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Snippets/ProductThumbImage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Styles/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="816" column="8" selection-start="14221" selection-end="14221" vertical-scroll-proportion="0.0">
+        <state line="7" column="0" selection-start="283" selection-end="290" vertical-scroll-proportion="0.19412725">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Styles/white.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="692" column="17" selection-start="15842" selection-end="15842" vertical-scroll-proportion="0.0">
+        <state line="764" column="14" selection-start="17244" selection-end="17244" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Panels/ProductDetails.html">
+    <entry file="file://$PROJECT_DIR$/account.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="32" selection-start="1779" selection-end="1779" vertical-scroll-proportion="-0.65384614">
+        <state line="14" column="121" selection-start="414" selection-end="535" vertical-scroll-proportion="-7.230769">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/product.html">
+    <entry file="file://$PROJECT_DIR$/Snippets/AccountOrderStatusItem.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="39" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.1635514">
+        <state line="33" column="28" selection-start="1399" selection-end="1412" vertical-scroll-proportion="-21.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panels/AccountOrder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panels/AccountOrders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panels/AccountRecentItems.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panels/AccountOrderStatus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="387" selection-end="509" vertical-scroll-proportion="-8.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account_addressbook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.19286872">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account_returns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="45" selection-start="291" selection-end="291" vertical-scroll-proportion="0.19286872">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account_orderstatus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="509" selection-end="509" vertical-scroll-proportion="0.346395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Panels/ChooseShippingAddress.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="3.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account_orders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="33" selection-start="325" selection-end="350" vertical-scroll-proportion="-5.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="12" selection-start="334" selection-end="334" vertical-scroll-proportion="-5.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="12" selection-start="359" selection-end="359" vertical-scroll-proportion="0.19473082">
           <folding />
         </state>
       </provider>
