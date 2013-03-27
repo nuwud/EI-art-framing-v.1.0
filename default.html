@@ -11,14 +11,12 @@
 			%%Panel.SideNewsletterBox%%
 		</div>
 		<div class="Content Wide WideWithLeft" id="LayoutColumn2"> <!-- revised div style -->
-<!--
-			%%Panel.HomeFeaturedProducts%%
-			%%Panel.HomeNewProducts%%
-			%%Panel.HomeRecentBlogs%%
--->
-            <h2>Who We Are and What We Do</h2>
 
-            <img src="%%GLOBAL_ShopPathNormal%%/images/slider/dsc06873.jpg" />
+        <h2>Who We Are and What We Do</h2>
+
+            <div class="slideshow">
+                <img src="%%GLOBAL_ShopPathNormal%%/template/images/slider/dsc06873.jpg" width="320" height="240" />
+            </div>
 
             <p>Essex Industries is one of the largest manufacturers of quality ash and cane canoe seats and accessories. We have supplied our products to canoe manufacturers and retailer for over twenty-five years. Our customer base spans the U.S., Canada, and abroad.</p>
 
@@ -43,5 +41,11 @@
 	</div>
 	%%Panel.Footer%%
 </div>
+<script type="text/javascript" src="%%GLOBAL_ShopPathNormal%%/template/js/jquery.cycle.lite.js"></script>
+<script>
+    $(function(){
+        $('#s1').cycle('fade');
+    })
+</script>
 </body>
 </html>
