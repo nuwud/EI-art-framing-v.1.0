@@ -746,20 +746,43 @@ ul.tabs li {
     padding: 6px 8px 6px 8px;
     background: white;
 }
-/* 3/27/13 homepage slideshow jQ Cycle css */
-#slider1 {
+/* 3/27/13 homepage slideshow jQ Cycle site css code, prevents fouc of showing all images */
+#canoe-slides {
     height:  240px;
     width:   320px;
-    padding-right: 17px;
+    /*padding-right: 17px;*/
+    padding-right: 15px;
     margin:  0;
     float: left;
 }
-#slider1 img .first {
+#canoe-slides img .first {
     display: block;
 }
-#slider1 img {
+#canoe-slides img {
     display:none;
-    padding: 0px 0px 13px 0px;
+    /*padding: 0px 0px 13px 0px;*/
+    padding-bottom: 15px;
+    width:  320px;
+    height: 240px;
+    top:  0;
+    left: 0;
+}
+/* 3/27/13 history of EI slideshow jQ Cycle site css code, prevents fouc of showing all images */
+#history-slides {
+    height:  240px;
+    width:   320px;
+    /*padding-right: 17px;*/
+    padding-right: 15px;
+    margin:  0;
+    float: left;
+}
+#history-slides img .first {
+    display: block;
+}
+#history-slides img {
+    display:none;
+    /*padding: 0px 0px 13px 0px;*/
+    padding-bottom: 15px;
     width:  320px;
     height: 240px;
     top:  0;
