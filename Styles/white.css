@@ -746,47 +746,38 @@ ul.tabs li {
     padding: 6px 8px 6px 8px;
     background: white;
 }
-/* 3/27/13 homepage slideshow jQ Cycle site css code, prevents fouc of showing all images */
+/* 3/27/13 homepage slideshow jQ Cycle site css code, padding differs in all browsers */
 #canoe-slides {
-    height:  240px;
-    width:   320px;
-    /*padding-right: 17px;*/
+    height: 240px;
+    width: 320px;
     padding-right: 15px;
-    margin:  0;
+    margin: 0;
     float: left;
-}
-#canoe-slides img .first {
-    display: block;
+    overflow: hidden;  /* prevents fouc showing all images */
 }
 #canoe-slides img {
-    display:none;
-    /*padding: 0px 0px 13px 0px;*/
     padding-bottom: 15px;
-    width:  320px;
+    width: 320px;
     height: 240px;
-    top:  0;
+    top: 0;
     left: 0;
 }
-/* 3/27/13 history of EI slideshow jQ Cycle site css code, prevents fouc of showing all images */
+/* 3/28/13 history of EI slideshow jQ Cycle site css code */
+/* 3/28/13 this code centers it on page */
+#history-slides, .slide {
+    height: 350px;
+    width: 700px;  /* 3/28/2013 wider than widest slide but not full column width */
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
 #history-slides {
-    height:  240px;
-    width:   320px;
-    /*padding-right: 17px;*/
-    padding-right: 15px;
-    margin:  0;
-    float: left;
+    overflow: hidden; /* prevents fouc showing all images */
 }
-#history-slides img .first {
+.slide img {
     display: block;
-}
-#history-slides img {
-    display:none;
-    /*padding: 0px 0px 13px 0px;*/
-    padding-bottom: 15px;
-    width:  320px;
-    height: 240px;
-    top:  0;
-    left: 0;
+    margin: 0 auto;
+    text-align: center;
 }
 .OrderItemList {
     list-style-type: none;
