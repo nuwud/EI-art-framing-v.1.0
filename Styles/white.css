@@ -747,15 +747,18 @@ ul.tabs li {
     background: white;
 }
 /* 3/27/13 homepage slideshow jQ Cycle css */
-.slideshow {
+#slider1 {
     height:  240px;
     width:   320px;
     padding-right: 17px;
     margin:  0;
     float: left;
 }
-
-.slideshow img {
+#slider1 img .first {
+    display: block;
+}
+#slider1 img {
+    display:none;
     padding: 0px 0px 13px 0px;
     width:  320px;
     height: 240px;
