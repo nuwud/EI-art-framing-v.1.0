@@ -45,17 +45,16 @@ lang.EnterZip = '%%LNG_EnterShippingZip%%';
 								<div class="EstimatedShippingMethods" style="display: none;">
 									<div class="ShippingMethodList">
 									</div>
-									<hr />
 								</div>
 								<dl>
-									<dt>%%LNG_Country%%: <span class="Required">*</span>&nbsp;</dt>
+									<dt>%%LNG_Country%%: <span class="Required">*</span>&nbsp;&nbsp;</dt>
 									<dd>
 										<select class="Field200" name="shippingZoneCountry" id="shippingZoneCountry" onchange="Cart.ToggleShippingEstimateCountry();">
 											%%GLOBAL_ShippingCountryList%%
 										</select>
 									</dd>
 
-									<dt>%%LNG_StateProvince%%: <span class="Required" id="shippingZoneStateRequired">*</span>&nbsp;</dt>
+									<dt>%%LNG_StateProvince%%: <span class="Required" id="shippingZoneStateRequired">*</span>&nbsp;&nbsp;</dt>
 									<dd>
 										<select style="display: %%GLOBAL_ShippingHideStateList%%" class="Field200" name="shippingZoneState" id="shippingZoneState">
 											%%GLOBAL_ShippingStateList%%
@@ -63,7 +62,7 @@ lang.EnterZip = '%%LNG_EnterShippingZip%%';
 										<input style="display: %%GLOBAL_ShippingHideStateBox%%" type="text" class="Textbox Field200" name="shippingZoneStateName" id="shippingZoneStateName" value="%%GLOBAL_AddressState%%" />
 									</dd>
 
-									<dt>%%LNG_ZipPostcode%%: <span class="Required">*</span>&nbsp;</dt>
+									<dt>Zip/Post Code: <span class="Required">*</span>&nbsp;&nbsp;</dt>
 									<dd><input type="text" class="Field100 Textbox" name="shippingZoneZip" id="shippingZoneZip" value="%%GLOBAL_ShippingZip%%" /></dd>
 								</dl>
 								<p class="Submit EstimateShippingButtons">
@@ -117,7 +116,7 @@ lang.EnterZip = '%%LNG_EnterShippingZip%%';
 			<a href="%%GLOBAL_KeepShoppingLink%%">%%GLOBAL_KeepShoppingText%%</a>
 		</div>
 
-		<div style="display: %%GLOBAL_HideShoppingCartEmptyMessage%%"><!-- 3/19/13 better msg about continue shopping -->
+		<div style="display: %%GLOBAL_HideShoppingCartEmptyMessage%%"><!-- 3/19/13 need better msg about continue shopping -->
 			<p class="InfoMessage Message">
 				<strong>%%LNG_NoItemsInCart%%</strong>
 			</p>

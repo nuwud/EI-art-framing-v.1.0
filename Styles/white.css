@@ -780,10 +780,23 @@ ul.tabs li {
 .EstimateShipping {
     background: #003300;
     border: none;
-    width: 375px;
+    width: 360px;
     padding: 0px;
     margin: 0px;
 }
 .EstimateShipping dt {
     width: 160px;
 }
+.ShippingMethodList {
+    margin-bottom: 10px;
+}
+#BillingAddressTypeExisting, #ShippingAddressTypeExisting, #ship_to_billing_existing {
+    margin-top: 1em;
+}
+#BillingAddressTypeExisting, #ShippingAddressTypeExisting {
+    margin-bottom: 1em;
+}
+.CheckoutOrderComments, #bottom_payment_button {
+    margin-top: 1em;
+}
+
