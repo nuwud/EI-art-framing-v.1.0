@@ -782,3 +782,7 @@ ul.tabs li {
 .OrderItemList {
     list-style-type: none;
 }
+.EstimateShipping {
+    background: #003300;
+    border: none;
+}
