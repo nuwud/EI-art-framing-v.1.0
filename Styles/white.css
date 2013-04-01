@@ -444,13 +444,6 @@ hr {
 }
 
 
-/* Shipping Estimation on Cart Contents Page */
-.EstimateShipping {
-	background: #f4f4f4;
-	border: 1px solid #dadada;
-}
-
-
 /* Express Checkout */
 .ExpressCheckoutBlock .ExpressCheckoutTitle {
 	background: #0066cc;
@@ -782,7 +775,15 @@ ul.tabs li {
 .OrderItemList {
     list-style-type: none;
 }
+/* Shipping Estimation on Cart Contents Page */
+
 .EstimateShipping {
     background: #003300;
     border: none;
+    width: 375px;
+    padding: 0px;
+    margin: 0px;
+}
+.EstimateShipping dt {
+    width: 160px;
 }
