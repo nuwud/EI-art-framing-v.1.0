@@ -36,7 +36,9 @@
 			<input type="button" name="apply_code" id="apply_code" value="%%LNG_Apply%%" onclick="return ExpressCheckout.ApplyCouponCode();" />
 		</p>
 	</div>
-
+    <br clear="all" />
+    <!-- 4/1/13 START PAYMENT OPTIONS -->
+    <div class="PaymentOptionsOrderInstructions">
 	<div style="display: %%GLOBAL_HidePaymentOptions%%" class="PaymentOptions" id="payment_options">
 		<!--<h3>%%LNG_HowWouldYouLikeToPay%%</h3>-->
         <h3>Payment Method</h3>
@@ -116,6 +118,8 @@
 	<p class="PL20">
 		<input id="bottom_payment_button" style="display:%%GLOBAL_HideButtomPaymentButton%%" type="submit" value="%%LNG_ProceedToPayment%%" />
 	</p>
+    </div><!-- END PAYMENT OPTIONS 4/1/13 -->
+
 	%%Panel.ChooseCheckoutProviderJavaScript%%
 	<script type="text/javascript">
 		%%GLOBAL_PaymentButtonSwitch%%

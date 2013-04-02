@@ -799,4 +799,18 @@ ul.tabs li {
 .CheckoutOrderComments, #bottom_payment_button {
     margin-top: 1em;
 }
+.CheckoutRedeemCoupon {
+    width: 470px;
+}
+.PaymentOptionsOrderInstructions {
+    float: right;
+    width: 475px;
+}
+.PL20 { /* 4/1/13 used on checkout confirmation section of express checkout, may affect other things too */
+    padding: 0px;
+}
+.hidden {
+    display: none;
+}
+
 
