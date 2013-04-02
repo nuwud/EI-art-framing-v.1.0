@@ -3,3 +3,10 @@
 	<input type="button" value="%%LNG_UpdateShippingCost%%" onclick="Cart.UpdateShippingCost();" />
 </p>
 %%GLOBAL_DeliveryDisclaimer%%
+<script type="text/javascript">
+    $(function() {
+        $('em:contains("$0.00")').each(function() {
+            $(this).html("Call for Shipping");
+        });
+    });
+</script>

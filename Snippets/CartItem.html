@@ -33,3 +33,10 @@
 		</td>
 		<td align="right" class="CartItemTotalPrice"><em class="ProductPrice">%%GLOBAL_ProductTotal%%</em></td>
 	</tr>
+    <script type="text/javascript">
+        $(function() {
+            $('em:contains("$0.00")').each(function() {
+                $(this).html("Call for Shipping");
+            });
+        });
+    </script>
