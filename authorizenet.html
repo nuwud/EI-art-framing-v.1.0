@@ -8,17 +8,17 @@
 <form action="%%GLOBAL_ShopPathSSL%%/checkout.php?action=process_payment" method="post" onsubmit="return check_authorizenet_payment_form()">
 	<div class="FormContainer HorizontalFormContainer">
 		<dl>
-			<dt><span class="Required">*</span> %%LNG_AuthorizeNetCardHoldersName%%:</dt>
+			<dt>%%LNG_AuthorizeNetCardHoldersName%%: <span class="Required">*</span></dt>
 			<dd><input type="text" name="AuthorizeNet_name" id="AuthorizeNet_name" value="%%GLOBAL_AuthorizeNetName%%" size="30" /></dd>
 
-			<dt><span class="Required">*</span> %%LNG_AuthorizeNetCreditCardNo%%:</dt>
+			<dt>%%LNG_AuthorizeNetCreditCardNo%%: <span class="Required">*</span></dt>
 			<dd>
 				<input type="text" name="AuthorizeNet_ccno" id="AuthorizeNet_ccno" value="%%GLOBAL_AuthorizeNetNum%%" size="30" />
 				<br />
 				<small>%%LNG_AuthorizeNetCreditCardNoHelp%%</small>
 			</dd>
 
-			<dt><span class="Required">*</span> %%LNG_AuthorizeNetExpirationDate%%:</dt>
+			<dt>%%LNG_AuthorizeNetExpirationDate%%: <span class="Required">*</span> </dt>
 			<dd>
 				<select name="AuthorizeNet_ccexpm" id="AuthorizeNet_ccexpm">
 					<option value=""></option>
@@ -30,7 +30,7 @@
 				</select>
 			</dd>
 
-			<dt style="display: %%GLOBAL_AuthorizeNetHideCVV2%%"><span class="Required">*</span> %%LNG_AuthorizeNetCreditCardCCV2%%:</dt>
+			<dt style="display: %%GLOBAL_AuthorizeNetHideCVV2%%">%%LNG_AuthorizeNetCreditCardCCV2%%: <span class="Required">*</span></dt>
 			<dd id="CVV2Input" style="display: %%GLOBAL_AuthorizeNetHideCVV2%%">
 				<input type="text" class="Textbox" name="AuthorizeNet_cccode" id="cc_cvv2" value="%%GLOBAL_AuthorizeNetCCV2%%" size="4" />
 				&nbsp;<small><a href="#" id="CVV2Help">%%LNG_WhatsThis%%</a></small>
