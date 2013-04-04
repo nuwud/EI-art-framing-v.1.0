@@ -812,6 +812,26 @@ ul.tabs li {
 .hidden {
     display: none;
 }
+ul.tabs li {
+    display: inline;
+    border: 1px solid #DADADA;
+    border-bottom: 0px solid #FFFFFF;
+    padding: 6px 8px 6px 0;
+    -webkit-border-top-left-radius: 0px;
+    -webkit-border-top-right-radius: 0px;
+    -moz-border-radius-topleft: 0px;
+    -moz-border-radius-topright: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    background: #EFEFEF;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f7f7f7');
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f7f7f7));
+    background: -moz-linear-gradient(top, #ffffff, #f7f7f7);
+    font-weight: bold;
+    color: #808080;
+    cursor: pointer;
+    margin-right: 3px;
+}
 #tabcontent {
     border: 1px solid #DADADA;
     padding: 15px;
