@@ -816,7 +816,7 @@ ul.tabs li {
     display: inline;
     border: 1px solid #DADADA;
     border-bottom: 0px solid #FFFFFF;
-    padding: 6px 8px 6px 0;
+    padding: 6px 8px 6px 8px;
     -webkit-border-top-left-radius: 0px;
     -webkit-border-top-right-radius: 0px;
     -moz-border-radius-topleft: 0px;
@@ -844,5 +844,16 @@ ul.tabs li {
     margin-bottom: 20px;
     min-height: 120px;
 }
+/* 4/4/13 cc images css */
+.cc { height: 36px; }
+.cc div { background:url(http://mls-test.mybigcommerce.com/template/images/cc.png); border:1px solid #666; float:left; }
+.cc .mc { background-position:0px 0px; height:32px; margin:2px; width:56px; }
+.cc .vc { background-position:-56px 0px; height:32px; margin:2px; width:56px; }
+.cc .dc { background-position:-112px 0px; height:32px; margin:2px; width:56px; }
+.cc .ac { background-position:-168px 0px; height:32px; margin:2px; width:56px; }
+.cc .mb { background-position:0px 32px; height:32px; margin:2px; width:56px; }
+.cc .vb { background-position:-56px 32px; height:32px; margin:2px; width:56px; }
+.cc .db { background-position:-112px 32px; height:32px; margin:2px; width:56px; }
+.cc .ab { background-position:-168px 32px; height:32px; margin:2px; width:56px; }
 
 
