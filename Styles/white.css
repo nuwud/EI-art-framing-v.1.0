@@ -812,5 +812,17 @@ ul.tabs li {
 .hidden {
     display: none;
 }
+#tabcontent {
+    border: 1px solid #DADADA;
+    padding: 15px;
+    -webkit-border-radius: 0;
+    -webkit-border-top-left-radius: 0;
+    -moz-border-radius: 0;
+    -moz-border-radius-topleft: 0;
+    border-radius: 0;
+    border-top-left-radius: 0;
+    margin-bottom: 20px;
+    min-height: 120px;
+}
 
 
