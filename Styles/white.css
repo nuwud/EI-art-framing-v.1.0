@@ -689,9 +689,10 @@ border: 1px solid #dfdfdf!important;
     font-size: 1.6em;
 }
 /* 3/19/13 style for dt elements in form divs, partially override same css in styles.css */
+/* 4/4/13 was 160px, changed to 170px, must review all forms... */
 .HorizontalFormContainer dt {
     font-weight: bold;
-    width: 160px;
+    width: 170px;
     margin-top: 5px;
 }
 .Content a.FloatRight {
@@ -717,7 +718,7 @@ border: 1px solid #dfdfdf!important;
     margin: 0 auto;
 }
 .NarrowFormContainer p.Submit {
-    margin-left: 160px;
+    margin-left: 170px;
 }
 #LoginButton {
     margin-bottom: 5px;
@@ -855,5 +856,4 @@ ul.tabs li {
 .cc .vb { background-position:-56px 32px; height:32px; margin:2px; width:56px; }
 .cc .db { background-position:-112px 32px; height:32px; margin:2px; width:56px; }
 .cc .ab { background-position:-168px 32px; height:32px; margin:2px; width:56px; }
-
 
