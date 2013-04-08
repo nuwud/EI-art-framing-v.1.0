@@ -860,3 +860,6 @@ ul.tabs li {
 .ProductDetailsGrid .Label {
     padding-top: 0px;
 }
+.Content .ProductList.List .ProductDescription {
+    font-style: normal;
+}
