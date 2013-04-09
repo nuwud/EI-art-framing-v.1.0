@@ -10,14 +10,14 @@
 	border: 1px solid #dddddd;
 	cursor: pointer;
 	padding: 6px 10px 8px 10px;
-	-webkit-border-radius: 5px;
-	-moz-border-radius: 5px;
-	border-radius: 5px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
 
 	text-decoration: none !important;
 	font-size: 11px;
 	font-weight: bold;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	display:inline-block;
 	line-height: 11px;
 	
