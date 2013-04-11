@@ -21,11 +21,12 @@ a {
 	font-weight: normal;
 	/* text-decoration: underline; */
     color: #cfcfcf; /* 3/11/13 same as searchform a, alternative would be #c0c0c0 for silver, also try going back to the EI brown color */
+    color: #f0e6e6;
     text-decoration: none;
 }
 a:hover {
 	/*color: #fafad2;  *//* 3/10/13 was #0066cc; */
-    color: #cfcfcf; /* 3/11/13 same as searchform a */
+    /*color: #cfcfcf; *//* 3/11/13 same as searchform a */
     text-decoration: underline;
 }
 h1,h2,h3,h4,h5,h6 {
