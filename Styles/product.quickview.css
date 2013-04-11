@@ -28,6 +28,7 @@
 #ModalContainer.QuickViewModal {
 	width: 660px !important;
 	/*height: 400px !important;*/
+    height: 425px;
 	margin-left: -315px !important;
 }
 

@@ -21,11 +21,13 @@ a {
 	font-weight: normal;
 	/* text-decoration: underline; */
     color: #cfcfcf; /* 3/11/13 same as searchform a, alternative would be #c0c0c0 for silver, also try going back to the EI brown color */
+    color: #660000; /* 4/11/13 people want links same as sidebox, does not look good at all but it is their loss */
     text-decoration: none;
 }
 a:hover {
 	/*color: #fafad2;  *//* 3/10/13 was #0066cc; */
     color: #cfcfcf; /* 3/11/13 same as searchform a */
+    color: #660000; /* 4/11/13 people want links same as sidebox, does not look good at all but it is their loss */
     text-decoration: underline;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -159,9 +161,12 @@ h4 {
 }
 #SearchForm a {
 	color: #cfcfcf;
+    color: #660000; /* 4/11/13 people want links same as sidebox, does not look good at all but it is their loss */
+
 }
 #SearchForm p {
 	color: #cfcfcf;
+    color: #660000; /* 4/11/13 people want links same as sidebox, does not look good at all but it is their loss */
 }
 
 
@@ -253,7 +258,7 @@ h4 {
 .Content a {
     /*color: #fafad2; *//* lightgoldenrodyellow 3/6/12 */
     color: #cfcfcf; /* 3/11/13 same as searchform a */
-
+    color: #660000; /* 4/11/13 people want links same as sidebox, does not look good at all but it is their loss */
 }
 .Content.Wide {
 }
@@ -310,7 +315,7 @@ h4 {
     /* color: #eee8aa; palegoldenrod 3/6/12 */
     /*color: #fafad2; *//* lightgoldenrodyellow 3/6/12 */
     color: #cfcfcf; /* 3/11/13 same as searchform a */
-
+    color: #660000; /* 4/11/13 people want links same as sidebox, does not look good at all but it is their loss */
 }
 .ProductList strong a:hover {
 	/*color: #0066cc;*/
@@ -328,9 +333,6 @@ h4 {
 .ProductActionAdd a:hover, .ProductActionAdd strong a:hover {
 	color: #0066cc;
 }
-
-
-
 .Content .FeaturedProducts .ProductList li {
 }
 .Content .FeaturedProducts .ProductList .ProductImage {
