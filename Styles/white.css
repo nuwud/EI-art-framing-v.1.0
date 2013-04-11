@@ -61,6 +61,7 @@ h4 {
 #TopMenu li a {
     /*color: #fafad2; *//* 3/10/13 TO DO change all links to gray like on search menu */
     color: #cfcfcf; /* 3/11/13 same as searchform a */
+    color: #f5fffa; /* 4/11/13 mint cream */
 }
 #TopMenu li div {
 }
@@ -152,9 +153,11 @@ h4 {
 }
 #SearchForm a {
 	color: #cfcfcf;
+    color: #f5fffa; /* 4/11/13 mint cream */
 }
 #SearchForm p {
 	color: #cfcfcf;
+    color: #f5fffa; /* 4/11/13 mint cream */
 }
 /* Left Content Area */
 /*
@@ -243,6 +246,7 @@ h4 {
 .Content a {
     /*color: #fafad2; *//* lightgoldenrodyellow 3/6/12 */
     color: #cfcfcf; /* 3/11/13 same as searchform a */
+    color: #f5fffa; /* 4/11/13 mint cream */
 }
 .Content.Wide {
 }
@@ -290,6 +294,10 @@ h4 {
     /* #a19d72; old color from ZC site 3/6/13 */ /* #8a8a8a;, maybe use #0088cc, was #999999, was #0088CC; */
     /* color: #eee8aa; palegoldenrod 3/6/12 */
     /*color: #fafad2; *//* lightgoldenrodyellow 3/6/12 */
+    color: #cfcfcf; /* 3/11/13 same as searchform a */
+    color: #f5fffa; /* 4/11/13 mint cream */
+}
+.ProductQty a {
     color: #cfcfcf; /* 3/11/13 same as searchform a */
 }
 .ProductList strong a:hover {
