@@ -21,7 +21,6 @@ a {
 	font-weight: normal;
 	/* text-decoration: underline; */
     color: #cfcfcf; /* 3/11/13 same as searchform a, alternative would be #c0c0c0 for silver, also try going back to the EI brown color */
-    color: #f0e6e6;
     text-decoration: none;
 }
 a:hover {
@@ -34,7 +33,6 @@ h1,h2,h3,h4,h5,h6 {
     /* #eee8aa; 3/6/12 *//* #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
     /* color: #fafad2; lightgoldenrodyellow 3/6/12 */
     color: #eee8aa; /* palegoldenrod 3/6/12 */
-
 }
 h2 {
 	/*color: #0066cc;*/
@@ -131,7 +129,6 @@ h4 {
     /* #a19d72 looks good too, palegoldenrod, #eee8aa, goes well with green and dark red */
     color: #eee8aa; /* palegoldenrod 3/6/12 */
     /* color: #f8f8ff; /* ghostwhite 3/6/12 */
-
 }
 /* 3/12/13 do not need logo div, removed it, styled header div instead, which is more syntactically correct */
 #Logo {
@@ -498,7 +495,6 @@ table.CartContents thead tr th, table.General thead tr th {
 #SideCategoryList .sf-menu li ul a:active {
 	background-color: #ebebeb;
 }
-
 #SideCategoryList .sf-sub-indicator {
 	background-image:  url('../../ArtFraming/images/white/arrows-dark.png');
 }
@@ -583,8 +579,7 @@ table.CartContents thead tr th, table.General thead tr th {
 #Information .BlockContent li {
     margin-bottom: 3px;
 }
-.Sidebox /*3/15/13 derived from bootstrap .well class */
-{
+.Sidebox { /*3/15/13 derived from bootstrap .well class */
     min-height: 20px;
     padding: 19px;
     margin-bottom: 20px;
@@ -802,4 +797,12 @@ ul.tabs li {
 }
 .Content .ProductList.List .ProductDescription {
     font-style: normal;
+}
+/* ARR rowing rig testimonial image 4/11/12 */
+#testimonial img {
+    padding-bottom: 15px;
+    padding-right: 15px;
+    top: 0;
+    left: 0;
+    float: left;
 }
