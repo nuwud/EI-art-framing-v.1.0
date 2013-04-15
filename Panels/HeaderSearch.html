@@ -2,9 +2,7 @@
 				<form action="%%GLOBAL_ShopPath%%/search.php" method="get" onsubmit="return check_small_search_form()">
 					<label for="search_query">%%LNG_Search%%</label>
 					<input type="text" name="search_query" id="search_query" class="Textbox" value="%%GLOBAL_OriginalSearchQuery%%" />
-					<!--<input type="image" src="%%GLOBAL_IMG_PATH%%/%%GLOBAL_SiteColor%%/Search.gif" class="Button" />-->
-                    <input type="button" value="SEARCH" class="blue_Button" />
-
+                    <input type="submit" value="SEARCH" class="search-button" />
 				</form>
 				<p>
 					<a href="%%GLOBAL_ShopPathNormal%%/search.php?mode=advanced">%%LNG_AdvancedSearch%%</a> |
