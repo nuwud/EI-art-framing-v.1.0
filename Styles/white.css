@@ -743,7 +743,7 @@ ul.tabs li {
 .CheckoutOrderComments, #bottom_payment_button {
     margin-top: 1em;
 }
-.CheckoutRedeemCoupon {
+.CheckoutRedeemCoupon { /* 4/15/13 may want this display: none; */
     width: 470px;
 }
 .PaymentOptionsOrderInstructions {
