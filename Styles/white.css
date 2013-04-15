@@ -703,7 +703,7 @@ ul.tabs li {
 /* 3/28/13 history of EI slideshow jQ Cycle site css code */
 /* 3/28/13 this code centers it on page */
 #history-slides, .slide {
-    height: 350px;
+    height: 432px;
     width: 700px;  /* 3/28/2013 wider than widest slide but not full column width */
     margin: 0 auto;
     padding: 0;
