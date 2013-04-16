@@ -872,6 +872,34 @@ ul.tabs li {
     position:relative;
     top:1px;
 }
+#SearchForm .TEST-button {
+    -moz-box-shadow:inset 0px 1px 0px 0px #cf866c;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #cf866c;
+    box-shadow:inset 0px 1px 0px 0px #cf866c;
+    background-color:#d0451b;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+    border:1px solid #942911;
+    display:inline-block;
+    font-family: BitstreamVeraSansRoman, Verdana, sans-serif;
+    font-size:12px;
+    font-weight:normal;
+    padding: 4px 0px 4px 0px;
+    text-decoration:none;
+    height: 22px;
+    vertical-align: middle;
+    width: 110px;
+    color:#ffffff;
+    text-shadow:0px 1px 0px #154682;
+}
+#SearchForm .TEST-button:hover {
+    background-color:#0061a7;
+}
+#SearchForm .TEST-button:active {
+    position:relative;
+    top:1px;
+}
 /* 4/15/13 hide gift cert stuff for now, must undo later */
 div.FloatRight.CheckoutRedeemCoupon {
     width: 340px;
