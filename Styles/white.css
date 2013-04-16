@@ -21,6 +21,7 @@ a {
 	font-weight: normal;
 	/* text-decoration: underline; */
     color: #cfcfcf; /* 3/11/13 same as searchform a, alternative would be #c0c0c0 for silver, also try going back to the EI brown color */
+    color: #f5fffa; /* 4/11/13 mint cream */
     text-decoration: none;
 }
 a:hover {
@@ -222,11 +223,13 @@ h4 {
 .Left #SideCategoryList a {
 	/*color: #000;*/
     color: #cfcfcf;
+    color: #f5fffa; /* 4/11/13 mint cream */
 }
 .Left #SideCategoryList a:hover {
 	/*color: #0066cc;*/
     color: #cfcfcf;
     text-decoration: underline;
+    color: #f5fffa; /* 4/11/13 mint cream */
 }
 .Left #SideCategoryList {
     padding: 5px 0 5px 0; /* 3/14/13 based on #SideCategoryList in styles.css */
@@ -816,34 +819,8 @@ ul.tabs li {
     float: left;
 }
 /* 4/15/13 css buttons code */
-#SearchForm .search-button {
-    -moz-box-shadow:inset 0px 1px 0px 0px #54a3f7;
-    -webkit-box-shadow:inset 0px 1px 0px 0px #54a3f7;
-    box-shadow:inset 0px 1px 0px 0px #54a3f7;
-    background-color:#007dc1;
-    -moz-border-radius:3px;
-    -webkit-border-radius:3px;
-    border-radius:3px;
-    border:1px solid #124d77;
-    display:inline-block;
-    font-family: BitstreamVeraSansRoman, Verdana, sans-serif;
-    font-size:12px;
-    font-weight:normal;
-    padding: 4px 0px 4px 0px;
-    text-decoration:none;
-    height: 22px;
-    vertical-align: middle;
-    width: 80px;
-    color:#ffffff;
-    text-shadow:0px 1px 0px #154682;
-}
-#SearchForm .search-button:hover {
-    background-color:#0061a7;
-}
-#SearchForm .search-button:active {
-    position:relative;
-    top:1px;
-}
+/* 4/16/12 test button for submit button */
+/*
 .add-to-cart-button {
     -moz-box-shadow:inset 0px 1px 0px 0px #54a3f7;
     -webkit-box-shadow:inset 0px 1px 0px 0px #54a3f7;
@@ -872,34 +849,132 @@ ul.tabs li {
     position:relative;
     top:1px;
 }
-#SearchForm .TEST-button {
-    -moz-box-shadow:inset 0px 1px 0px 0px #cf866c;
-    -webkit-box-shadow:inset 0px 1px 0px 0px #cf866c;
-    box-shadow:inset 0px 1px 0px 0px #cf866c;
-    background-color:#d0451b;
+*/
+/* 4/16/13 maroon search submit button css within search form */
+#SearchForm .btn-search {
+    /*-moz-box-shadow:inset 0px 1px 0px 0px #290000;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #290000;
+    box-shadow:inset 0px 1px 0px 0px #290000;*/
+    background-color:#751919;
     -moz-border-radius:3px;
     -webkit-border-radius:3px;
     border-radius:3px;
-    border:1px solid #942911;
+    border:1px solid #290000;
     display:inline-block;
     font-family: BitstreamVeraSansRoman, Verdana, sans-serif;
     font-size:12px;
     font-weight:normal;
-    padding: 4px 0px 4px 0px;
+    padding: 4px 0px 5px 0px;
     text-decoration:none;
-    height: 22px;
+    height: 23px;
     vertical-align: middle;
-    width: 110px;
-    color:#ffffff;
+    width: 90px;
+    color: #f5fffa; /* 4/11/13 mint cream */
     text-shadow:0px 1px 0px #154682;
 }
-#SearchForm .TEST-button:hover {
-    background-color:#0061a7;
+#SearchForm .btn-search:hover {
+    background-color:#660000;
 }
-#SearchForm .TEST-button:active {
+#SearchForm .btn-search:active {
     position:relative;
     top:1px;
 }
+/* 4/16/13 GREEN CHECKOUT and ADD TO CART A tag css button code */
+.btn-checkout {
+    /*-moz-box-shadow:inset 0px 1px 0px 0px #29000;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #290000;
+    box-shadow:inset 0px 1px 0px 0px #290000;*/
+    background-color:#338433;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+    /*border:1px solid #290000;*/
+    display:inline-block;
+    font-family: BitstreamVeraSansRoman, Verdana, sans-serif;
+    font-size:12px;
+    font-weight:normal;
+    padding: 5px 15px 0px 15px;
+    text-decoration:none;
+    height: 17px;
+    vertical-align: middle;
+    text-shadow:0px 1px 0px #154682;
+    text-align: center;
+    float: right;
+}
+.btn-checkout:hover {
+    background-color:#197519;
+    text-decoration: none;
+}
+.btn-checkout:active {
+    position:relative;
+    top:1px;
+}
+.Content .btn-checkout:hover {
+    text-decoration: none;
+}
+/* 4/16/13 maroon submit button css within content per se, cannot remove border solid #290000 */
+.button2 {
+    /*-moz-box-shadow:inset 0px 1px 0px 0px #290000;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #290000;
+    box-shadow:inset 0px 1px 0px 0px #290000;*/
+    background-color:#751919;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+    border:1px solid #290000;
+    display:inline-block;
+    font-family: BitstreamVeraSansRoman, Verdana, sans-serif;
+    font-size:12px;
+    font-weight:normal;
+    padding: 4px 15px 5px 15px;
+    text-decoration:none;
+    height: 23px;
+    vertical-align: middle;
+    /*width: 90px;*/
+    color: #f5fffa; /* 4/11/13 mint cream */
+    text-shadow:0px 1px 0px #154682;
+}
+.button2:hover {
+    background-color:#660000;
+}
+.button2:active {
+    position:relative;
+    top:1px;
+}
+/* 4/16/13 MAROON A anchor a href tag css button code */
+.TEST-button2 {
+    -moz-box-shadow:inset 0px 1px 0px 0px #29000;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #290000;
+    box-shadow:inset 0px 1px 0px 0px #290000;
+    background-color:#751919;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+    border:1px solid #290000;
+    display:inline-block;
+    font-family: BitstreamVeraSansRoman, Verdana, sans-serif;
+    font-size:12px;
+    font-weight:normal;
+    padding: 5px 15px 0px 15px;
+    text-decoration:none;
+    height: 17px;
+    vertical-align: middle;
+    text-shadow:0px 1px 0px #154682;
+    text-align: center;
+    float: right;
+}
+.TEST-button2:hover {
+    background-color:#660000;
+    text-decoration: none;
+}
+.TEST-button2:active {
+    position:relative;
+    top:1px;
+}
+.Content .TEST-button2:hover {
+    text-decoration: none;
+}
+
 /* 4/15/13 hide gift cert stuff for now, must undo later */
 div.FloatRight.CheckoutRedeemCoupon {
     width: 340px;
@@ -916,4 +991,18 @@ div.FloatRight.CheckoutRedeemCoupon {
 }
 #bottom_payment_button {
     float: right;
+}
+div.FloatRight.KeepShopping {
+    width: 200px;
+    padding: 0px;
+    margin-top: 10px;
+}
+div.ProductImage {
+    height: auto;
+}
+/* 4/16/13 try to override some stuff in this, have it looking a little better now */
+div.QuickViewBtn {
+    font-family: BitstreamVeraSansRoman, Verdana, sans-serif;
+    font-size:12px;
+    font-weight:normal;
 }

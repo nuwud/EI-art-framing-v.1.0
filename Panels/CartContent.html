@@ -93,15 +93,17 @@ lang.EnterZip = '%%LNG_EnterShippingZip%%';
 				</tbody>
 			</table>
 			<div class="FloatLeft" style="display: %%GLOBAL_HideCartQuantityTextBox%%">
-				<input type="image" src="%%GLOBAL_IMG_PATH%%/%%GLOBAL_SiteColor%%/UpdateQtyButton.gif" alt="%%LNG_Update%%" />
+				<!--<input type="image" src="%%GLOBAL_IMG_PATH%%/%%GLOBAL_SiteColor%%/UpdateQtyButton.gif" alt="%%LNG_Update%%" />-->
+                <input type="submit" value="UPDATE QUANTITY" class="button2" alt="%%LNG_Update%%" />
 			</div>
 			</form>
 			<div class="ProceedToCheckout">
 				<div class="CheckoutButton" style="%%GLOBAL_HideCheckoutButton%%">
-					<a href="%%GLOBAL_CheckoutLink%%" onclick="%%GLOBAL_OptimizerLinkFunction%%" title="%%LNG_CheckoutButtonTitle%%">
-					%%GLOBAL_CartCheckoutButtonOptimizerScriptTag%%
-					<img src="%%GLOBAL_IMG_PATH%%/%%GLOBAL_SiteColor%%/CheckoutButton.gif" alt="" />
-					%%GLOBAL_CartCheckoutButtonOptimizerNoScriptTag%%
+					<a href="%%GLOBAL_CheckoutLink%%" onclick="%%GLOBAL_OptimizerLinkFunction%%" title="Check Out" class="btn-checkout">
+					    <!--%%GLOBAL_CartCheckoutButtonOptimizerScriptTag%%-->
+					<!--<img src="%%GLOBAL_IMG_PATH%%/%%GLOBAL_SiteColor%%/CheckoutButton.gif" alt="" />-->
+                        <i class="icon-shopping-cart"></i>&nbsp; CHECK OUT
+					    <!--%%GLOBAL_CartCheckoutButtonOptimizerNoScriptTag%%-->
 					</a>
 				</div>
 				<div class="FloatRight AlternativeCheckout" style="%%GLOBAL_HideMultipleAddressShipping%%">
@@ -113,7 +115,7 @@ lang.EnterZip = '%%LNG_EnterShippingZip%%';
 		</div>
 
 		<div class="KeepShopping FloatRight">
-			<a href="%%GLOBAL_KeepShoppingLink%%">%%GLOBAL_KeepShoppingText%%</a>
+			<a href="%%GLOBAL_KeepShoppingLink%%" class="TEST-button2">CONTINUE SHOPPING</a>
 		</div>
 
 		<div style="display: %%GLOBAL_HideShoppingCartEmptyMessage%%"><!-- 3/19/13 need better msg about continue shopping -->
