@@ -833,7 +833,7 @@ ul.tabs li {
     text-decoration:none;
     height: 22px;
     vertical-align: middle;
-    width: 90px;
+    width: 80px;
     color:#ffffff;
     text-shadow:0px 1px 0px #154682;
 }
@@ -843,4 +843,49 @@ ul.tabs li {
 #SearchForm .search-button:active {
     position:relative;
     top:1px;
+}
+.add-to-cart-button {
+    -moz-box-shadow:inset 0px 1px 0px 0px #54a3f7;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #54a3f7;
+    box-shadow:inset 0px 1px 0px 0px #54a3f7;
+    background-color:#007dc1;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+    border:1px solid #124d77;
+    display:inline-block;
+    font-family: BitstreamVeraSansRoman, Verdana, sans-serif;
+    font-size:12px;
+    font-weight:normal;
+    padding: 4px 0px 4px 0px;
+    text-decoration:none;
+    height: 22px;
+    vertical-align: middle;
+    width: 110px;
+    color:#ffffff;
+    text-shadow:0px 1px 0px #154682;
+}
+.add-to-cart-button:hover {
+    background-color:#0061a7;
+}
+.add-to-cart-button:active {
+    position:relative;
+    top:1px;
+}
+/* 4/15/13 hide gift cert stuff for now, must undo later */
+div.FloatRight.CheckoutRedeemCoupon {
+    width: 340px;
+    padding: 0px;
+    display: none;
+}
+/* 4/15/13 make this all display nicely */
+.PaymentOptionsOrderInstructions {
+    width: 340px;
+    padding: 0px;
+}
+#order_comments {
+    width: 340px;
+}
+#bottom_payment_button {
+    float: right;
 }

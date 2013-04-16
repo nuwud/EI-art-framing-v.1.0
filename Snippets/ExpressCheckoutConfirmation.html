@@ -29,7 +29,7 @@
 		<!--<h4>%%GLOBAL_RedeemTitle%%</h4>-->
         <h3>Redeem Gift Certificate or Coupon</h3>
 		<!--<p>%%GLOBAL_RedeemIntro%%</p>-->
-        <p>To apply a gift certificate or coupon code to this order, please enter the code below, then click 'Apply.'</p>
+        <p>If you have one, please enter the gift certificate or coupon code, then click 'Apply.'</p>
 		<p>
 			<strong>%%LNG_CouponCode1%%:</strong>
 			<input type="text" name="couponcode" id="couponcode" />
@@ -90,7 +90,8 @@
 	<div style="display: %%GLOBAL_HideOrderComments%%" class="CheckoutOrderComments">
 		<h3>%%LNG_EnterOrderComments%%</h3>
 		<div class="PL20">
-			<textarea name="ordercomments" cols="40" rows="6" class="Field400">%%GLOBAL_OrderComments%%</textarea>
+			<!--<textarea name="ordercomments" cols="40" rows="6" class="Field400">%%GLOBAL_OrderComments%%</textarea>-->
+            <textarea name="ordercomments" cols="40" rows="6" id="order_comments">%%GLOBAL_OrderComments%%</textarea>
 		</div>
 	</div>
 
